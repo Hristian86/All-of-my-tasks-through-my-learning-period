@@ -59,15 +59,15 @@ namespace test_BIGMM_TOUCHES
             string[] temp = new string[num + 1];
             string[] temp2 = new string[num + 1];
             var dict = new Dictionary<string[], string[]>();
-            firstOne = FirstEngine(firstOne, num);
-            firstOne = SecondEngine(firstOne, num);
-            temp = ThirdEngine(temp, num);
+            FirstEngine(firstOne, num);
+            SecondEngine(firstOne, num);
+            ThirdEngine(temp, num);
             for (int i = 0; i < temp.Length; i++)
             {
                 firstOne[i] += temp[i];
             }
-            firstOne = SecondEngine(firstOne, num);
-            temp2 = ForthEngine(temp2, num);
+            SecondEngine(firstOne, num);
+            ForthEngine(temp2, num);
             for (int k = 0; k < temp2.Length; k++)
             {
                 firstOne[k] += temp2[k];
@@ -84,7 +84,7 @@ namespace test_BIGMM_TOUCHES
             }
             Console.WriteLine(sesa.Trim());
         }
-        static string[] ForthEngine(string[] firstOne, int num)
+        static void ForthEngine(string[] firstOne, int num)
         {
             // this is 
             string seto2 = "";
@@ -109,9 +109,8 @@ namespace test_BIGMM_TOUCHES
                 seto2 = "";
             }
             Array.Reverse(firstOne);
-            return firstOne;
         }
-        static string[] ThirdEngine(string[] firstOne, int num)
+        static void ThirdEngine(string[] firstOne, int num)
         {
             string seto2 = "";
             int gigi = 1;
@@ -171,9 +170,9 @@ namespace test_BIGMM_TOUCHES
                 seto2 = "";
             }
             Array.Reverse(firstOne);
-            return firstOne;
+
         }
-        static string[] SecondEngine(string[] firstOne, int num)
+        static void SecondEngine(string[] firstOne, int num)
         {
             string seto2 = "";
             int gigi = 1;
@@ -234,9 +233,9 @@ namespace test_BIGMM_TOUCHES
                 firstOne[i] += seto2;
                 seto2 = "";
             }
-            return firstOne;
+
         }
-        static string[] FirstEngine(string[] firstOne, int num)
+        static void FirstEngine(string[] firstOne, int num)
         {
             string seto2 = "";
             for (int i = 0; i <= num; i++)
@@ -259,7 +258,7 @@ namespace test_BIGMM_TOUCHES
                 firstOne[i] += seto2;
                 seto2 = "";
             }
-            return firstOne;
+
         }
     }
 }
