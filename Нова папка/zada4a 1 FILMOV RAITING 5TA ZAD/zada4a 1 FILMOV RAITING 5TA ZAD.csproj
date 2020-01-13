@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>zada4a_1_FILMOV_RAITING_5TA_ZAD</RootNamespace>
+  </PropertyGroup>
+
+</Project>

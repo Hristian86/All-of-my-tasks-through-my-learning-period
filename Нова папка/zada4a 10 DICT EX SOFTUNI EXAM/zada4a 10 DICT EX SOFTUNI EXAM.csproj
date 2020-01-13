@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>zada4a_10_DICT_EX_SOFTUNI_EXAM</RootNamespace>
+  </PropertyGroup>
+
+</Project>

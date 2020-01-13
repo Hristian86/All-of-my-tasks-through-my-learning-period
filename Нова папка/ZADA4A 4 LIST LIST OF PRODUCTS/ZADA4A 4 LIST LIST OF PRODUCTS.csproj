@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>ZADA4A_4_LIST_LIST_OF_PRODUCTS</RootNamespace>
+  </PropertyGroup>
+
+</Project>
