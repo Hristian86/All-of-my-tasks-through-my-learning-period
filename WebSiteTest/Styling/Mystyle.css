@@ -1,0 +1,171 @@
+		div 
+		{
+			color: white;
+			margin: 60px;
+		}
+h2 
+{
+	color: white;
+	margin-top: 10px;
+	margin-left: 750px;
+}
+h1 
+{
+	color: white;
+}
+#Logo {
+	margin-right: 1px;
+
+}
+input 
+{
+
+}
+ul 
+{
+	color: white;
+}
+#uprear 
+{
+	display: inline-block;
+	list-style-type: none;
+}
+nav ul li 
+{
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	margin: 0px;
+}
+footer ul li 
+{
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	margin: 0px;
+}
+#unor 
+{
+	display: inline;
+}
+
+#weba 
+{
+	display: inline;
+}
+
+.nav-link 
+{
+	
+}
+.navbar-brand 
+{
+	position: - webkit-sticky;
+	
+}
+
+#lista 
+{
+	float: right;
+}
+table 
+{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 50%;
+	margin-left: 450px;
+	color: white;
+	margin-top: 20px;
+	border-color: green;
+}
+td, th 
+{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+nav 
+{
+
+}
+.navbar navbar-expand-lg 
+{
+
+}
+
+tr:nth-child(even) 
+{
+  background-color: ;
+}
+a 
+{
+	color: white;
+}
+#sbm 
+{
+	color: white;
+	background: transparent;
+	border-right-width: 5px;
+	width: 55px;
+	border-left-width: 5px;
+	outline-width: 5;
+	border-bottom-width: 5px;
+	border-top-width: 5px;
+
+}
+#formula 
+{
+  
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  margin-left: 0px;
+}
+#intro 
+{
+  
+}
+
+#navbarSupportedContent 
+{
+	margin: 0px;
+}
+.cont {
+	color: white;
+}
+#logito 
+{
+	color: 	#00FFFF;
+}
+#firstnm 
+{
+	color: #ADFF2F;
+}
+#secondnm 
+{
+	color: #90EE90;
+}
+.btn btn-orange SearchButton 
+{
+	color: white;
+}
+.animals 
+{
+	color: white;
+	display: inline-block;
+	padding: 5px;
+	margin: 0px 40px;
+}
+.sites {
+	color: greenyellow;
+}
+.sis {
+	color: #E800FF;
+}
+.rex {
+	color: red;
+	margin: 20px 70px;
+}

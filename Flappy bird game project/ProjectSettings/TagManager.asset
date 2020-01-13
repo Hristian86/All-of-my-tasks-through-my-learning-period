@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Looper
+  - Background
+  - Ground
+  - Floor
+  - Celling
+  - Ceiling
+  - Pipes
+  - Pipe
+  - PipeCollision
+  - PipeScore
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3801374295
+    locked: 0
+  - name: Player
+    uniqueID: 253400043
+    locked: 0
+  - name: Pipes
+    uniqueID: 1457302879
+    locked: 0
+  - name: Menu
+    uniqueID: 3524441231
+    locked: 0
