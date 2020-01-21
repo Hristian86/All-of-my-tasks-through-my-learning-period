@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\zada4a 1 BITWISE OPERATIONS.pdb

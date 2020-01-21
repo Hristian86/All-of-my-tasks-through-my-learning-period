@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\languedge.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\languedge.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\languedge.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\languedge.dll
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\languedge.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.dll
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\languedge.pdb

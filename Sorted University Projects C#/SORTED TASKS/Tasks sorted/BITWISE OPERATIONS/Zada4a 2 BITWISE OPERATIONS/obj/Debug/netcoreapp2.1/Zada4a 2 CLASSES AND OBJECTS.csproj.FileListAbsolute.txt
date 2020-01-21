@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\bin\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BITWISE OPERATIONS\obj\Debug\netcoreapp2.1\Zada4a 2 CLASSES AND OBJECTS.pdb

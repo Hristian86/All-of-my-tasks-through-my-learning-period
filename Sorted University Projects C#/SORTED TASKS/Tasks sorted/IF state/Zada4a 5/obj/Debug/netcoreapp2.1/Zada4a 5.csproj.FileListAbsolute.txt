@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5.pdb

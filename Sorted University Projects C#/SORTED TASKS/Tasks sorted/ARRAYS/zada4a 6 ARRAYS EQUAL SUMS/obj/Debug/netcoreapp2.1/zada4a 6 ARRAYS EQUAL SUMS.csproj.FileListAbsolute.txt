@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\bin\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\bin\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\bin\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\bin\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\bin\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\obj\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\obj\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\obj\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\obj\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 ARRAYS EQUAL SUMS\obj\Debug\netcoreapp2.1\zada4a 6 ARRAYS EQUAL SUMS.pdb

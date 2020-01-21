@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\bin\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\bin\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\bin\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\bin\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\bin\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\obj\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\obj\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\obj\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\obj\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 TEXT PROC\obj\Debug\netcoreapp2.1\zada4a 2 TEXT PROC.pdb

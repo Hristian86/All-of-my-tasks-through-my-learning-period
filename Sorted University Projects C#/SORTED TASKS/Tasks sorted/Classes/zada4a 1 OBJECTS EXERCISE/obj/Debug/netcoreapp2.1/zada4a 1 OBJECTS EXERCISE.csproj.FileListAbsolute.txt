@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 OBJECTS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 1 OBJECTS EXERCISE.pdb

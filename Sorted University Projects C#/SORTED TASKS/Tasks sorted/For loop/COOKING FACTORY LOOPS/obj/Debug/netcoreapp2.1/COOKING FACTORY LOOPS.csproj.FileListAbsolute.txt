@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\bin\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\bin\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\bin\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\bin\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\bin\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\COOKING FACTORY LOOPS\obj\Debug\netcoreapp2.1\COOKING FACTORY LOOPS.pdb

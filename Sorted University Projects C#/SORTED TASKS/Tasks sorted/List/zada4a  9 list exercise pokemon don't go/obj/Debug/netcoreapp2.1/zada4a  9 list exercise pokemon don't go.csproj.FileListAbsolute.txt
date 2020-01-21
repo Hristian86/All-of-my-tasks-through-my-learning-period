@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\bin\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\bin\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\bin\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\bin\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\bin\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  9 list exercise pokemon don't go\obj\Debug\netcoreapp2.1\zada4a  9 list exercise pokemon don't go.csprojAssemblyReference.cache

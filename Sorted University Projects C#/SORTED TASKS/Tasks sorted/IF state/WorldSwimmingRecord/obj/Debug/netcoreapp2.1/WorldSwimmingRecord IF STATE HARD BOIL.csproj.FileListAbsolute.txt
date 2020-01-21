@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord IF STATE HARD BOIL.pdb

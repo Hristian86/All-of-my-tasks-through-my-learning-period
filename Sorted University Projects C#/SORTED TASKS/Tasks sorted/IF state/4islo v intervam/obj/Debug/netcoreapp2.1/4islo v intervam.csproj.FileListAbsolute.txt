@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\bin\Debug\netcoreapp2.1\4islo v intervam.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\bin\Debug\netcoreapp2.1\4islo v intervam.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\bin\Debug\netcoreapp2.1\4islo v intervam.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\bin\Debug\netcoreapp2.1\4islo v intervam.dll
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\bin\Debug\netcoreapp2.1\4islo v intervam.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\obj\Debug\netcoreapp2.1\4islo v intervam.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\obj\Debug\netcoreapp2.1\4islo v intervam.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\obj\Debug\netcoreapp2.1\4islo v intervam.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\obj\Debug\netcoreapp2.1\4islo v intervam.dll
+C:\Users\Pencho\source\repos\zada4izaispit\4islo v intervam\obj\Debug\netcoreapp2.1\4islo v intervam.pdb

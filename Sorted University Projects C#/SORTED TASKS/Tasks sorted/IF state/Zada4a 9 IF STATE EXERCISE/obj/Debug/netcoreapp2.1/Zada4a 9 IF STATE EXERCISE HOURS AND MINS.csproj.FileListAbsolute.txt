@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 9 IF STATE EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 9 IF STATE EXERCISE HOURS AND MINS.csprojAssemblyReference.cache

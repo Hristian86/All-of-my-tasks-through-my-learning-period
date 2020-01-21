@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES DEFINE CLASS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES DEFINE CLASS.pdb

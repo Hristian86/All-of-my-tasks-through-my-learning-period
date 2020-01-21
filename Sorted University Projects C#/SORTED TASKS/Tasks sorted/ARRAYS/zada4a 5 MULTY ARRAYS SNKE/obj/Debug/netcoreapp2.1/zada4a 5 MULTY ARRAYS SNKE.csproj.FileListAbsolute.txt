@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\bin\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\bin\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\bin\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\bin\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\bin\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MULTY ARRAYS SNKE\obj\Debug\netcoreapp2.1\zada4a 5 MULTY ARRAYS SNKE.pdb

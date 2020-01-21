@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS Rounding Numbers\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS Rounding Numbers.csprojAssemblyReference.cache

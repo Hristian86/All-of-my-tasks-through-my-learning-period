@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\bin\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\bin\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\bin\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\bin\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\bin\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zadara 8 METHODS FACTORIEL\obj\Debug\netcoreapp2.1\Zadara 8 METHODS FACTORIEL.csprojAssemblyReference.cache

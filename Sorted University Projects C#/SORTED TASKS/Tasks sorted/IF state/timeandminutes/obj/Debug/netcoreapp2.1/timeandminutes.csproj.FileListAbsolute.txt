@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\bin\Debug\netcoreapp2.1\timeandminutes.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\bin\Debug\netcoreapp2.1\timeandminutes.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\bin\Debug\netcoreapp2.1\timeandminutes.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\bin\Debug\netcoreapp2.1\timeandminutes.dll
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\bin\Debug\netcoreapp2.1\timeandminutes.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.dll
+C:\Users\Pencho\source\repos\zada4izaispit\timeandminutes\obj\Debug\netcoreapp2.1\timeandminutes.pdb

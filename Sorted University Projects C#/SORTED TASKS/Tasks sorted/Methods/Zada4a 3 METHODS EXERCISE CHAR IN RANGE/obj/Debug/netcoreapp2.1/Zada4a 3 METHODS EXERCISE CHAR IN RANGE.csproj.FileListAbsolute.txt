@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\bin\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\bin\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\bin\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\bin\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\bin\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\obj\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\obj\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\obj\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\obj\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 METHODS EXERCISE CHAR IN RANGE\obj\Debug\netcoreapp2.1\Zada4a 3 METHODS EXERCISE CHAR IN RANGE.pdb

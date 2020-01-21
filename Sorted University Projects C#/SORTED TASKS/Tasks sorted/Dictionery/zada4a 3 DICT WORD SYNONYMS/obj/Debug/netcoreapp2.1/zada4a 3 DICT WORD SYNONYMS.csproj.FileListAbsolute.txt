@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\bin\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\bin\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\bin\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\bin\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\bin\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\obj\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\obj\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\obj\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\obj\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT WORD SYNONYMS\obj\Debug\netcoreapp2.1\zada4a 3 DICT WORD SYNONYMS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\bin\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\bin\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\bin\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\bin\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\bin\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 IF STATE EXERSICE\obj\Debug\netcoreapp2.1\Zada4a 5 IF STATE EXERSICE.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Divade Whitout Remainar HARD.pdb

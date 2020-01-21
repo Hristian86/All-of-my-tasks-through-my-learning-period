@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\bin\Debug\netcoreapp2.1\BestPlanetikWHILE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\bin\Debug\netcoreapp2.1\BestPlanetikWHILE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\bin\Debug\netcoreapp2.1\BestPlanetikWHILE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\bin\Debug\netcoreapp2.1\BestPlanetikWHILE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\bin\Debug\netcoreapp2.1\BestPlanetikWHILE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a4,1\obj\Debug\netcoreapp2.1\BestPlanetikWHILE.pdb

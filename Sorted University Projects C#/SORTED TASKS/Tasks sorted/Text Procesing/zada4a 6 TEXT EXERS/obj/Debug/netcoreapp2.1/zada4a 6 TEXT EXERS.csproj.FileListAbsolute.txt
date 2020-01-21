@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 6 TEXT EXERS.pdb

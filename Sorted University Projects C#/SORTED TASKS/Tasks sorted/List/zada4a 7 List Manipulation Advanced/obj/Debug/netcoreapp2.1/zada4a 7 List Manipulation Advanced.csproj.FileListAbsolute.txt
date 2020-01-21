@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\bin\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\bin\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\bin\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\bin\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\bin\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 List Manipulation Advanced\obj\Debug\netcoreapp2.1\zada4a 7 List Manipulation Advanced.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\bin\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\bin\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\bin\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\bin\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\bin\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\obj\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\obj\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\obj\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\obj\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 COMBINATIONS NESTED LOOPS\obj\Debug\netcoreapp2.1\Zada4a 1 COMBINATIONS NESTED LOOPS.pdb

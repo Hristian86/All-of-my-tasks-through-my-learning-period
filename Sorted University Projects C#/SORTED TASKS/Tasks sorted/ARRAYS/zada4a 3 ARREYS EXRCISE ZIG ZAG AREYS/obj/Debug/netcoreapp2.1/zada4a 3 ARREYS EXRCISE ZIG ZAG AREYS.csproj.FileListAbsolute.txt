@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\bin\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS\obj\Debug\netcoreapp2.1\zada4a 3 ARREYS EXRCISE ZIG ZAG AREYS.pdb

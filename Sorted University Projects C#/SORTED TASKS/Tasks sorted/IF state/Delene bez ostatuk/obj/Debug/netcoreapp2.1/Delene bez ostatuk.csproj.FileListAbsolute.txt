@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Delene bez ostatuk.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Delene bez ostatuk.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Delene bez ostatuk.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Delene bez ostatuk.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Delene bez ostatuk.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Delene bez ostatuk.csprojAssemblyReference.cache

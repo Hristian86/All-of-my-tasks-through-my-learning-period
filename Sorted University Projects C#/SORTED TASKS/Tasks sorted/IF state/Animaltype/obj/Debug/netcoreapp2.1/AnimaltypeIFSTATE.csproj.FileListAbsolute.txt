@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\AnimaltypeIFSTATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\AnimaltypeIFSTATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\AnimaltypeIFSTATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\AnimaltypeIFSTATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\AnimaltypeIFSTATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\AnimaltypeIFSTATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\AnimaltypeIFSTATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\AnimaltypeIFSTATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\AnimaltypeIFSTATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\AnimaltypeIFSTATE.pdb

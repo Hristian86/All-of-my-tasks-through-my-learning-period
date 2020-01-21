@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL EXERCISE.csprojAssemblyReference.cache

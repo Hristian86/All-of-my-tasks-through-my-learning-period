@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ/1.0.0": {
+        "runtime": {
+          "Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\bin\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\bin\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\bin\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\bin\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\bin\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\obj\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\obj\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\obj\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\obj\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 METHODS MATH POWER\obj\Debug\netcoreapp2.1\zada4a 8 METHODS MATH POWER.pdb

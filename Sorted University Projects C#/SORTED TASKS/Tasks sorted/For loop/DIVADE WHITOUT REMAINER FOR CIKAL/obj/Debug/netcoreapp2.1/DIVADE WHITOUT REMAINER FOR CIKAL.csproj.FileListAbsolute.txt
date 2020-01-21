@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\bin\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\bin\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\bin\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\bin\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\bin\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\obj\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\obj\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\obj\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\obj\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DIVADE WHITOUT REMAINER FOR CIKAL\obj\Debug\netcoreapp2.1\DIVADE WHITOUT REMAINER FOR CIKAL.pdb

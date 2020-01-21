@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\bin\Debug\netcoreapp2.1\zada4a 2 REGEX.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\bin\Debug\netcoreapp2.1\zada4a 2 REGEX.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\bin\Debug\netcoreapp2.1\zada4a 2 REGEX.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\bin\Debug\netcoreapp2.1\zada4a 2 REGEX.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\bin\Debug\netcoreapp2.1\zada4a 2 REGEX.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 REGEX\obj\Debug\netcoreapp2.1\zada4a 2 REGEX.pdb

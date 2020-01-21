@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\bin\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5\obj\Debug\netcoreapp2.1\Zada4a 5 VLOJEN IF STATE.pdb

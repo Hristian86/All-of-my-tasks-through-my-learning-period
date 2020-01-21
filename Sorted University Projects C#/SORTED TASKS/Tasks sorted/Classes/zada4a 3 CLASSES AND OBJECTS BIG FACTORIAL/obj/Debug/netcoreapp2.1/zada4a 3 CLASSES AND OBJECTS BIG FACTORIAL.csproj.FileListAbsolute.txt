@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\bin\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\bin\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\bin\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\bin\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\bin\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\obj\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\obj\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\obj\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\obj\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL\obj\Debug\netcoreapp2.1\zada4a 3 CLASSES AND OBJECTS BIG FACTORIAL.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\bin\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\bin\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\bin\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\bin\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\bin\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 MEHODS  substract\obj\Debug\netcoreapp2.1\zada4a 6 MEHODS  MIDLE LETTERS.pdb

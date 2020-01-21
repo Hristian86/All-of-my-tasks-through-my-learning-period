@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\bin\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\bin\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\bin\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\bin\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\bin\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICTIONERY LARGEST 3 NUMBERS\obj\Debug\netcoreapp2.1\zada4a 4 DICTIONERY LARGEST 3 NUMBERS.pdb

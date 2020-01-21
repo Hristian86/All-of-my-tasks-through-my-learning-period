@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\bin\Debug\netcoreapp2.1\StipendiqCROS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\bin\Debug\netcoreapp2.1\StipendiqCROS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\bin\Debug\netcoreapp2.1\StipendiqCROS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\bin\Debug\netcoreapp2.1\StipendiqCROS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\bin\Debug\netcoreapp2.1\StipendiqCROS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\StipendiqCROS\obj\Debug\netcoreapp2.1\StipendiqCROS.pdb

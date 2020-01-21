@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\bin\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\bin\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\bin\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\bin\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\bin\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 11 METHODS ARREY MANIPOLATOR\obj\Debug\netcoreapp2.1\Zada4a 11 METHODS ARREY MANIPOLATOR.pdb

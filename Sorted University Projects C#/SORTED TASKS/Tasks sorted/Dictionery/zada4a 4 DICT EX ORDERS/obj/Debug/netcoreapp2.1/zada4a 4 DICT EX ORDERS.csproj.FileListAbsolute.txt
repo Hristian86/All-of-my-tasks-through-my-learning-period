@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\bin\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\bin\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\bin\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\bin\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\bin\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 DICT EX ORDERS\obj\Debug\netcoreapp2.1\zada4a 4 DICT EX ORDERS.csprojAssemblyReference.cache

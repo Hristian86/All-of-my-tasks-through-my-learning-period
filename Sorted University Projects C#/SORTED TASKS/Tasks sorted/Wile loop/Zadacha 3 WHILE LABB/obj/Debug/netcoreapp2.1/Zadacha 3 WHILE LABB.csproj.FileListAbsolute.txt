@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\bin\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\bin\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\bin\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\bin\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\bin\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zadacha 3 WHILE LABB\obj\Debug\netcoreapp2.1\Zadacha 3 WHILE LABB.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\test12345.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\test12345.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\test12345.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\test12345.dll
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\test12345.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\test12345.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\test12345.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\test12345.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\test12345.dll
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\test12345.pdb

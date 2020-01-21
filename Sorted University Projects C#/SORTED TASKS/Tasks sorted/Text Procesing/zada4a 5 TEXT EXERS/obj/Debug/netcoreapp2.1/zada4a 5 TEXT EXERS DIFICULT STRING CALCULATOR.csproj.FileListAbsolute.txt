@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\bin\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 TEXT EXERS\obj\Debug\netcoreapp2.1\zada4a 5 TEXT EXERS DIFICULT STRING CALCULATOR.pdb

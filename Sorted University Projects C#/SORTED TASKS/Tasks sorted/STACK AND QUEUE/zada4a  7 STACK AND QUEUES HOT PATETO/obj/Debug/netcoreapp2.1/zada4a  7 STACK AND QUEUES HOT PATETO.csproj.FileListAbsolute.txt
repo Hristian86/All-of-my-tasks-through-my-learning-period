@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\bin\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\bin\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\bin\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\bin\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\bin\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a  7 STACK AND QUEUES HOT PATETO\obj\Debug\netcoreapp2.1\zada4a  7 STACK AND QUEUES HOT PATETO.csprojAssemblyReference.cache

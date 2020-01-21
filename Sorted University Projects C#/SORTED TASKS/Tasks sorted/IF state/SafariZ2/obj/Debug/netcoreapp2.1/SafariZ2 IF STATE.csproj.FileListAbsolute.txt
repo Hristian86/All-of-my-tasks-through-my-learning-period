@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2 IF STATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2 IF STATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2 IF STATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2 IF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2 IF STATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2 IF STATE.pdb

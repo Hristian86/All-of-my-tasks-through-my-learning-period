@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\zada4a 1 DEFINE CLASS CAR.csprojAssemblyReference.cache

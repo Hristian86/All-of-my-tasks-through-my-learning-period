@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\Pencho\source\repos\zada4izaispit\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\bin\Debug\netcoreapp2.1\testZada4a 7 dictionery.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\bin\Debug\netcoreapp2.1\testZada4a 7 dictionery.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\bin\Debug\netcoreapp2.1\testZada4a 7 dictionery.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\bin\Debug\netcoreapp2.1\testZada4a 7 dictionery.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\bin\Debug\netcoreapp2.1\testZada4a 7 dictionery.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\obj\Debug\netcoreapp2.1\testZada4a 7 dictionery.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\obj\Debug\netcoreapp2.1\testZada4a 7 dictionery.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\obj\Debug\netcoreapp2.1\testZada4a 7 dictionery.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\obj\Debug\netcoreapp2.1\testZada4a 7 dictionery.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testZada4a 7 dictionery\obj\Debug\netcoreapp2.1\testZada4a 7 dictionery.pdb

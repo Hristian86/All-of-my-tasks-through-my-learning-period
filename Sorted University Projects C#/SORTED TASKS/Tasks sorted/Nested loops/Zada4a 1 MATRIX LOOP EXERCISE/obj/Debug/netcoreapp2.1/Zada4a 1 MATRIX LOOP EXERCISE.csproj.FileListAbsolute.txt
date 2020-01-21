@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 MATRIX LOOP EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 1 MATRIX LOOP EXERCISE.csprojAssemblyReference.cache

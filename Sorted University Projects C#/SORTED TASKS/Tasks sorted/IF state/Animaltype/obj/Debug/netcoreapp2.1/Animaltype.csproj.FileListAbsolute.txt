@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Animaltype.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Animaltype.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Animaltype.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Animaltype.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Animaltype.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Animaltype.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Animaltype.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Animaltype.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Animaltype.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Animaltype.pdb

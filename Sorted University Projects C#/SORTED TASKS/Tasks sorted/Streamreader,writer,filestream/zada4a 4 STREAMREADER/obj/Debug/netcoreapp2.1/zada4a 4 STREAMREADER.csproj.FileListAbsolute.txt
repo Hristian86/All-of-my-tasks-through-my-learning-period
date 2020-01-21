@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\bin\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\bin\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\bin\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\bin\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\bin\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STREAMREADER\obj\Debug\netcoreapp2.1\zada4a 4 STREAMREADER.pdb

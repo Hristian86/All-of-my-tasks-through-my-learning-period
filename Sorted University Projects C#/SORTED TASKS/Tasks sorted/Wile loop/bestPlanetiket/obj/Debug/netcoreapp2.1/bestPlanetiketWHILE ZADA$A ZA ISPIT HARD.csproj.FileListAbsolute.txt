@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.dll
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.dll
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiketWHILE ZADA$A ZA ISPIT HARD.pdb

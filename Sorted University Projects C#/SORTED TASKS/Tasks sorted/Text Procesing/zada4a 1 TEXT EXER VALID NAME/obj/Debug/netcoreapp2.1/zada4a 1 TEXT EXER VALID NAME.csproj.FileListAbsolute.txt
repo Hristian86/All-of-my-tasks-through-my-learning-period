@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\bin\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\bin\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\bin\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\bin\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\bin\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 TEXT EXER VALID NAME\obj\Debug\netcoreapp2.1\zada4a 1 TEXT EXER VALID NAME.csprojAssemblyReference.cache

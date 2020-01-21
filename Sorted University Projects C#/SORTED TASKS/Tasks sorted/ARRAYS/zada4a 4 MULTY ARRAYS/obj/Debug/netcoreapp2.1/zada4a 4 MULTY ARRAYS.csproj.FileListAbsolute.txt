@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\bin\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\bin\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\bin\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\bin\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\bin\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\obj\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\obj\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\obj\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\obj\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 MULTY ARRAYS\obj\Debug\netcoreapp2.1\zada4a 4 MULTY ARRAYS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\bin\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\bin\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\bin\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\bin\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\bin\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 METHODS PALINDROME\obj\Debug\netcoreapp2.1\zada4a 9 METHODS PALINDROME.csprojAssemblyReference.cache

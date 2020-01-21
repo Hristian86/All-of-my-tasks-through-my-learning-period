@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 4 NESTED FOR Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Zada4a 4 NESTED FOR Equal Sums Even Odd Position.pdb

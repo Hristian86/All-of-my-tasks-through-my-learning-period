@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\bin\Debug\netcoreapp2.1\TailoringSop FORMULI.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\bin\Debug\netcoreapp2.1\TailoringSop FORMULI.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\bin\Debug\netcoreapp2.1\TailoringSop FORMULI.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\bin\Debug\netcoreapp2.1\TailoringSop FORMULI.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\bin\Debug\netcoreapp2.1\TailoringSop FORMULI.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\DancingHall\obj\Debug\netcoreapp2.1\TailoringSop FORMULI.csprojAssemblyReference.cache

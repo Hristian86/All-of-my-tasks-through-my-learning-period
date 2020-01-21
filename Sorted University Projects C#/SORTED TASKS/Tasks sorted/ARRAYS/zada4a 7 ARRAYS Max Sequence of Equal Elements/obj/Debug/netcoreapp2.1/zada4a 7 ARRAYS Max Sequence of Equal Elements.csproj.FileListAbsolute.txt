@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 ARRAYS Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\zada4a 7 ARRAYS Max Sequence of Equal Elements.csprojAssemblyReference.cache

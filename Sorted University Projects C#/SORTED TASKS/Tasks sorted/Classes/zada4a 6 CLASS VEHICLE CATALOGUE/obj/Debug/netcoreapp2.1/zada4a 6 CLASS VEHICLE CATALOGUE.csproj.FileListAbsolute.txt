@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\bin\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\bin\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\bin\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\bin\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\bin\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 CLASS VEHICLE CATALOGUE\obj\Debug\netcoreapp2.1\zada4a 6 CLASS VEHICLE CATALOGUE.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\bin\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\bin\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\bin\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\bin\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\bin\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 9 DICT EX FACEBOOK\obj\Debug\netcoreapp2.1\zada4a 9 DICT EX FACEBOOK.pdb

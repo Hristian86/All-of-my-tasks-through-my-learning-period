@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\bin\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\bin\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\bin\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\bin\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\bin\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\obj\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\obj\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\obj\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\obj\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT WORD FILTER\obj\Debug\netcoreapp2.1\zada4a 5 DICT WORD FILTER.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\bin\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\bin\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\bin\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\bin\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\bin\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\obj\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\obj\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\obj\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\obj\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 8 DICT EX COMPANY USERS\obj\Debug\netcoreapp2.1\zada4a 8 DICT EX COMPANY USERS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\bin\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\bin\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\bin\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\bin\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\bin\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 DICT EX COURSES\obj\Debug\netcoreapp2.1\zada4a 6 DICT EX COURSES.pdb

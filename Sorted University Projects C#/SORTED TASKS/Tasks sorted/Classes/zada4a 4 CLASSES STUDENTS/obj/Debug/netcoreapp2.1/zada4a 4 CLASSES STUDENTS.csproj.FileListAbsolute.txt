@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\bin\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 CLASSES STUDENTS\obj\Debug\netcoreapp2.1\zada4a 4 CLASSES STUDENTS.csprojAssemblyReference.cache

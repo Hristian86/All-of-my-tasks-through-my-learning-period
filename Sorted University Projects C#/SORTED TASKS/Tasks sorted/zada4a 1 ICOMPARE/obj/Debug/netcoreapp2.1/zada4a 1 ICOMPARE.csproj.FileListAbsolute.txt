@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\bin\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\bin\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\bin\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\bin\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\bin\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ICOMPARE\obj\Debug\netcoreapp2.1\zada4a 1 ICOMPARE.pdb

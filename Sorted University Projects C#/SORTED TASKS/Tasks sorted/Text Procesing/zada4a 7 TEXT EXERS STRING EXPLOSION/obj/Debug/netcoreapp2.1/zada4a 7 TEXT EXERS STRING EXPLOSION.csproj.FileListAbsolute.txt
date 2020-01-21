@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\bin\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\bin\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\bin\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\bin\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\bin\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\obj\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\obj\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\obj\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\obj\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 TEXT EXERS STRING EXPLOSION\obj\Debug\netcoreapp2.1\zada4a 7 TEXT EXERS STRING EXPLOSION.pdb

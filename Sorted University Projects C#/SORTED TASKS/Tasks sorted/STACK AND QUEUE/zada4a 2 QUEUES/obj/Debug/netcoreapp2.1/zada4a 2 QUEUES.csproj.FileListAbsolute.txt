@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\bin\Debug\netcoreapp2.1\zada4a 2 QUEUES.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\bin\Debug\netcoreapp2.1\zada4a 2 QUEUES.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\bin\Debug\netcoreapp2.1\zada4a 2 QUEUES.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\bin\Debug\netcoreapp2.1\zada4a 2 QUEUES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\bin\Debug\netcoreapp2.1\zada4a 2 QUEUES.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\obj\Debug\netcoreapp2.1\zada4a 2 QUEUES.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\obj\Debug\netcoreapp2.1\zada4a 2 QUEUES.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\obj\Debug\netcoreapp2.1\zada4a 2 QUEUES.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\obj\Debug\netcoreapp2.1\zada4a 2 QUEUES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 QUEUES\obj\Debug\netcoreapp2.1\zada4a 2 QUEUES.pdb

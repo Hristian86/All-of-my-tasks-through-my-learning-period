@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\obj\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\obj\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\obj\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\bin\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\bin\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\bin\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\bin\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\bin\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\obj\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS\obj\Debug\netcoreapp2.1\zada4a 2 ARREYS EXERCISE COMMN ELEMENTS.pdb

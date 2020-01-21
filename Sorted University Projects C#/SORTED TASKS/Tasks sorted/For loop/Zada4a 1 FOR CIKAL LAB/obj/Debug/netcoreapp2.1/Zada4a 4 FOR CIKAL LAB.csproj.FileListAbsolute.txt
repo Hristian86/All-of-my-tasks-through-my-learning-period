@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\bin\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 1 FOR CIKAL LAB\obj\Debug\netcoreapp2.1\Zada4a 4 FOR CIKAL LAB.csprojAssemblyReference.cache

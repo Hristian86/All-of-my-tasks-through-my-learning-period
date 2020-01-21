@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\bin\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\bin\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\bin\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\bin\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\bin\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\obj\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\obj\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\obj\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\obj\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 STACK AND QUEUE EXERSICE\obj\Debug\netcoreapp2.1\zada4a 4 STACK AND QUEUE EXERSICE.pdb

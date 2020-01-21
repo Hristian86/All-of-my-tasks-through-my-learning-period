@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 3 TRAVELING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 3 TRAVELING NESTED LOOP.pdb

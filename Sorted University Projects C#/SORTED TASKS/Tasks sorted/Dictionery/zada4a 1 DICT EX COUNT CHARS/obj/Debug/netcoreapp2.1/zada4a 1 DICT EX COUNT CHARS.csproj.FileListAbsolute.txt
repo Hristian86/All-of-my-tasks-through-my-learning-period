@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\bin\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\bin\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\bin\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\bin\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\bin\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\obj\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\obj\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\obj\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\obj\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DICT EX COUNT CHARS\obj\Debug\netcoreapp2.1\zada4a 1 DICT EX COUNT CHARS.pdb

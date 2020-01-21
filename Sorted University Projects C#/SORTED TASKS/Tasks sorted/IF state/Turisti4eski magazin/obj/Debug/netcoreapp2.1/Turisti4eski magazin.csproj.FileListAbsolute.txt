@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\bin\Debug\netcoreapp2.1\Turisti4eski magazin.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\bin\Debug\netcoreapp2.1\Turisti4eski magazin.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\bin\Debug\netcoreapp2.1\Turisti4eski magazin.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\bin\Debug\netcoreapp2.1\Turisti4eski magazin.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\bin\Debug\netcoreapp2.1\Turisti4eski magazin.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Turisti4eski magazin\obj\Debug\netcoreapp2.1\Turisti4eski magazin.pdb

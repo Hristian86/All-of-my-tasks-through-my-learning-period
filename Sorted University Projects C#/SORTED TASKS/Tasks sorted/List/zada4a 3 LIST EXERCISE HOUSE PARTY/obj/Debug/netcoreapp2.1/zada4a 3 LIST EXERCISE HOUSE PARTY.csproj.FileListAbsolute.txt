@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\bin\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\bin\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\bin\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\bin\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\bin\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 LIST EXERCISE HOUSE PARTY\obj\Debug\netcoreapp2.1\zada4a 3 LIST EXERCISE HOUSE PARTY.pdb

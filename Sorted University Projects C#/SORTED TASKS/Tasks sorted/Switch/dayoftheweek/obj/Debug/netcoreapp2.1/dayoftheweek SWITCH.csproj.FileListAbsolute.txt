@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek SWITCH.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek SWITCH.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek SWITCH.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek SWITCH.dll
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek SWITCH.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.dll
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek SWITCH.csprojAssemblyReference.cache

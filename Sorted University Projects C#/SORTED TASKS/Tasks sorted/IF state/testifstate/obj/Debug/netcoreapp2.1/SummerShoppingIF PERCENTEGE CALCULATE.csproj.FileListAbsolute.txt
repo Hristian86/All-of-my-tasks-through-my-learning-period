@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\SummerShoppingIF PERCENTEGE CALCULATE.csprojAssemblyReference.cache

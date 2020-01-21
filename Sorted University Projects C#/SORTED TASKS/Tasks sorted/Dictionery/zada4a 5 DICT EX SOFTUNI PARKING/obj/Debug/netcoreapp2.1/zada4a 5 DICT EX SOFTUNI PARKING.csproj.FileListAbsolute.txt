@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\bin\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\bin\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\bin\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\bin\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\bin\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 DICT EX SOFTUNI PARKING\obj\Debug\netcoreapp2.1\zada4a 5 DICT EX SOFTUNI PARKING.csprojAssemblyReference.cache

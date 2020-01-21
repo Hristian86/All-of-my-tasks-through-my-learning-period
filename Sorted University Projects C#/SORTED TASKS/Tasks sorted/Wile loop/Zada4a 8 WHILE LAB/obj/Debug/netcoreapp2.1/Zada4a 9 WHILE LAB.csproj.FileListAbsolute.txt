@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\bin\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\bin\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\bin\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\bin\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\bin\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 8 WHILE LAB\obj\Debug\netcoreapp2.1\Zada4a 9 WHILE LAB.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\bin\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\bin\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\bin\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\bin\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\bin\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICTIONERY ODD OCURENCE\obj\Debug\netcoreapp2.1\zada4a 2 DICTIONERY ODD OCCURRENCE.csprojAssemblyReference.cache

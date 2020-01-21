@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiket.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiket.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiket.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiket.dll
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\bin\Debug\netcoreapp2.1\bestPlanetiket.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiket.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiket.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiket.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiket.dll
+C:\Users\Pencho\source\repos\zada4izaispit\bestPlanetiket\obj\Debug\netcoreapp2.1\bestPlanetiket.pdb

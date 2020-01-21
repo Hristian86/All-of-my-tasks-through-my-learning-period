@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\bin\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\bin\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\bin\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\bin\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\bin\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\obj\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\obj\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\obj\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\obj\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREY Reverse Array of Strings\obj\Debug\netcoreapp2.1\zada4a 4 ARREY Reverse Array of Strings.pdb

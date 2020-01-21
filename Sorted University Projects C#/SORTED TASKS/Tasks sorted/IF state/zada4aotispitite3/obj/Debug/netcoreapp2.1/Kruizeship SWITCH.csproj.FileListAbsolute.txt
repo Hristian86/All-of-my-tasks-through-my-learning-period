@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\bin\Debug\netcoreapp2.1\Kruizeship SWITCH.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\bin\Debug\netcoreapp2.1\Kruizeship SWITCH.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\bin\Debug\netcoreapp2.1\Kruizeship SWITCH.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\bin\Debug\netcoreapp2.1\Kruizeship SWITCH.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\bin\Debug\netcoreapp2.1\Kruizeship SWITCH.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aotispitite3\obj\Debug\netcoreapp2.1\Kruizeship SWITCH.pdb

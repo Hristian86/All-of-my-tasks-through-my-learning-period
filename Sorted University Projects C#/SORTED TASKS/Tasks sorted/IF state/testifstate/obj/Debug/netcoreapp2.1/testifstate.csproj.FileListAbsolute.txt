@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\testifstate.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\testifstate.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\testifstate.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\testifstate.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\bin\Debug\netcoreapp2.1\testifstate.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.dll
+C:\Users\Pencho\source\repos\zada4izaispit\testifstate\obj\Debug\netcoreapp2.1\testifstate.pdb

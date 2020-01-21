@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA8STIPENDIQ.csprojAssemblyReference.cache

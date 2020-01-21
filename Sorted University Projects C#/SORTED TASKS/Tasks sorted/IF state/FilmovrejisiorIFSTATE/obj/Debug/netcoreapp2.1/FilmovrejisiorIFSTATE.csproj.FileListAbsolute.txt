@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\bin\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\bin\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\bin\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\bin\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\bin\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\FilmovrejisiorIFSTATE\obj\Debug\netcoreapp2.1\FilmovrejisiorIFSTATE.pdb

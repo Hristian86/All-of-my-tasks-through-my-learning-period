@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek.dll
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\bin\Debug\netcoreapp2.1\dayoftheweek.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek.dll
+C:\Users\Pencho\source\repos\zada4izaispit\dayoftheweek\obj\Debug\netcoreapp2.1\dayoftheweek.pdb

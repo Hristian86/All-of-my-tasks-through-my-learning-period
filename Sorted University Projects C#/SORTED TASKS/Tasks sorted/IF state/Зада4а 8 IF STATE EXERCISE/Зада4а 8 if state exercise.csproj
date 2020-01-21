@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Зада4а_8_ИФ_СТАТЕ_ЕЬЕРЦИСЕ</RootNamespace>
+  </PropertyGroup>
+
+</Project>

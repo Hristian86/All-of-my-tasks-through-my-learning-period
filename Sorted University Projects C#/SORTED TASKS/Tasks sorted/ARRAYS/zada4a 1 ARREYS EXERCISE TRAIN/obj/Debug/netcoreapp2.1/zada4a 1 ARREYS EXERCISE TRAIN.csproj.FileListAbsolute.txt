@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS EXERCISE TRAIN\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS EXERCISE TRAIN.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\bin\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\bin\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\bin\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\bin\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\bin\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASS ORDER BY AGE\obj\Debug\netcoreapp2.1\zada4a 7 CLASS ORDER BY AGE.csprojAssemblyReference.cache

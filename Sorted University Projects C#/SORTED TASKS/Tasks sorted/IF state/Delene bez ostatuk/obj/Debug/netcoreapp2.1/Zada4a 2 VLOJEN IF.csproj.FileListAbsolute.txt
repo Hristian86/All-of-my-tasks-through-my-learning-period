@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\bin\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Delene bez ostatuk\obj\Debug\netcoreapp2.1\Zada4a 2 VLOJEN IF.pdb

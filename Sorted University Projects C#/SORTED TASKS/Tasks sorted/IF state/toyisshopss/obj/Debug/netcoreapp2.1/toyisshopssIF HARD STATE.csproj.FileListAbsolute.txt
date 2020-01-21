@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\bin\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\bin\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\bin\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\bin\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\bin\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\toyisshopss\obj\Debug\netcoreapp2.1\toyisshopssIF HARD STATE.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\bin\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\bin\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\bin\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\bin\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\bin\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 ARREYS EXERCISE ARREY ROTATION\obj\Debug\netcoreapp2.1\zada4a 4 ARREYS EXERCISE ARREY ROTATION.pdb

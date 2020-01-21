@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\bin\Debug\netcoreapp2.1\Metod za 4isla.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\bin\Debug\netcoreapp2.1\Metod za 4isla.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\bin\Debug\netcoreapp2.1\Metod za 4isla.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\bin\Debug\netcoreapp2.1\Metod za 4isla.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\bin\Debug\netcoreapp2.1\Metod za 4isla.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Metod za 4isla\obj\Debug\netcoreapp2.1\Metod za 4isla.csprojAssemblyReference.cache

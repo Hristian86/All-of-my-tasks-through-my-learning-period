@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\bin\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADACHA8STIPENDIQ\obj\Debug\netcoreapp2.1\ZADACHA 8 STIPENDIQ HARD ONE.pdb

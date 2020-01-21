@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\bin\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\test12345\obj\Debug\netcoreapp2.1\TouristMagizine HARD WHILE.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\bin\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\bin\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\bin\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\bin\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\bin\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\obj\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\obj\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\obj\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\obj\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 7  EQUAL ARRAYS\obj\Debug\netcoreapp2.1\Zada4a 7  EQUAL ARRAYS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\bin\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\bin\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\bin\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\bin\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\bin\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 DICT EX STUDENT AVADEMI\obj\Debug\netcoreapp2.1\zada4a 7 DICT EX STUDENT AVADEMI.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\bin\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\bin\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\bin\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\bin\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\bin\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\obj\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\obj\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\obj\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\obj\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE\obj\Debug\netcoreapp2.1\zada4a 5 LIST REMOVE NEGATIVE AND REVERSE.pdb

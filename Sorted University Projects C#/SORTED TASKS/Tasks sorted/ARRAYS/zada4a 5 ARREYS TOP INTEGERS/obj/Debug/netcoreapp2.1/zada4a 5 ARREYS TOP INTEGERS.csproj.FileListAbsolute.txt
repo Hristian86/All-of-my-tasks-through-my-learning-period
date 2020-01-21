@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\bin\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\bin\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\bin\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\bin\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\bin\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\obj\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\obj\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\obj\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\obj\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 ARREYS TOP INTEGERS\obj\Debug\netcoreapp2.1\zada4a 5 ARREYS TOP INTEGERS.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2.dll
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\bin\Debug\netcoreapp2.1\SafariZ2.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2.dll
+C:\Users\Pencho\source\repos\zada4izaispit\SafariZ2\obj\Debug\netcoreapp2.1\SafariZ2.pdb

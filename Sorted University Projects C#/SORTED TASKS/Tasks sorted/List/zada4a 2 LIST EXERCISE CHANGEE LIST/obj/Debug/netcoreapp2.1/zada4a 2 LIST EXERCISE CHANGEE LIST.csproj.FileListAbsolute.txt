@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\bin\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\bin\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\bin\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\bin\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\bin\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\obj\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\obj\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\obj\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\obj\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 LIST EXERCISE CHANGEE LIST\obj\Debug\netcoreapp2.1\zada4a 2 LIST EXERCISE CHANGEE LIST.pdb

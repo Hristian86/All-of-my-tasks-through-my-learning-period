@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\bin\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\bin\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\bin\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\bin\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\bin\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 3 DICT EX LEGENDARY FARMING\obj\Debug\netcoreapp2.1\zada4a 3 DICT EX LEGENDARY FARMING.pdb

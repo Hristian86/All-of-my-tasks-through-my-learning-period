@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\bin\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 FOR CIKAL EXERCISE\obj\Debug\netcoreapp2.1\Zada4a 5 FOR CIKAL EXERCISE PERCETEGE REWORKING.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\bin\Debug\netcoreapp2.1\Toyshop.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\bin\Debug\netcoreapp2.1\Toyshop.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\bin\Debug\netcoreapp2.1\Toyshop.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\bin\Debug\netcoreapp2.1\Toyshop.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\bin\Debug\netcoreapp2.1\Toyshop.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Toyshop\obj\Debug\netcoreapp2.1\Toyshop.pdb

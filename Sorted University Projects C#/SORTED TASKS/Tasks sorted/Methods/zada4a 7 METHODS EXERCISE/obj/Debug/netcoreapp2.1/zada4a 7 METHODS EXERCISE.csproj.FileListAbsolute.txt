@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\bin\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 METHODS EXERCISE\obj\Debug\netcoreapp2.1\zada4a 7 METHODS EXERCISE.csprojAssemblyReference.cache

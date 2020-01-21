@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\bin\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\bin\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\bin\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\bin\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\bin\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\obj\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\obj\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\obj\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\obj\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB\obj\Debug\netcoreapp2.1\Zada4a 6 MAGICAL NUMBERS FOR LOOP LAB.pdb

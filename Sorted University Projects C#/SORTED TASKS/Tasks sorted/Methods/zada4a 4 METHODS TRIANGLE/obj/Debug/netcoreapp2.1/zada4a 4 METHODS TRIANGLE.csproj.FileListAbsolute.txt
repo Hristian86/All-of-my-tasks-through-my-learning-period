@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\bin\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\bin\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\bin\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\bin\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\bin\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\obj\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\obj\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\obj\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\obj\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 4 METHODS TRIANGLE\obj\Debug\netcoreapp2.1\zada4a 4 METHODS TRIANGLE.pdb

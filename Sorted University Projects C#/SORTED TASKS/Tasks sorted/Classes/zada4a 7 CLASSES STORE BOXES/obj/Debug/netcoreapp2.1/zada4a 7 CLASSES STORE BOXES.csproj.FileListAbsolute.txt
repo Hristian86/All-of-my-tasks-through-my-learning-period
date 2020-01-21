@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\bin\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\bin\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\bin\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\bin\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\bin\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 7 CLASSES STORE BOXES\obj\Debug\netcoreapp2.1\zada4a 7 CLASSES STORE BOXES.pdb

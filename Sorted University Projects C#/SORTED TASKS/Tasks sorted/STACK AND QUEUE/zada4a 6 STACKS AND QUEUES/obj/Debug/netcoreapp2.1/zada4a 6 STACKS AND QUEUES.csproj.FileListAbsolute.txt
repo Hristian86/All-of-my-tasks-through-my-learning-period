@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\bin\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\bin\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\bin\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\bin\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\bin\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\obj\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\obj\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\obj\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\obj\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 STACKS AND QUEUES\obj\Debug\netcoreapp2.1\zada4a 6 STACKS AND QUEUES.pdb

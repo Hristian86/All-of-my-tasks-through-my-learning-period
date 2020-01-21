@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\bin\Debug\netcoreapp2.1\Exelentresult.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\bin\Debug\netcoreapp2.1\Exelentresult.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\bin\Debug\netcoreapp2.1\Exelentresult.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\bin\Debug\netcoreapp2.1\Exelentresult.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\bin\Debug\netcoreapp2.1\Exelentresult.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Exelentresult\obj\Debug\netcoreapp2.1\Exelentresult.csprojAssemblyReference.cache

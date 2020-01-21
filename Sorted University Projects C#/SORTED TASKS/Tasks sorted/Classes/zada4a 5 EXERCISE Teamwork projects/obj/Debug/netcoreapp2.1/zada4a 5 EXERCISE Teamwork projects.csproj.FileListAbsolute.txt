@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\bin\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\bin\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\bin\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\bin\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\bin\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 5 EXERCISE Teamwork projects\obj\Debug\netcoreapp2.1\zada4a 5 EXERCISE Teamwork projects.pdb

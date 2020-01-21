@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\bin\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\bin\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\bin\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\bin\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\bin\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4aa 1 DICTIONERY COUNT REAL NUMBER\obj\Debug\netcoreapp2.1\zada4aa 1 DICTIONERY COUNT REAL NUMBER.csprojAssemblyReference.cache

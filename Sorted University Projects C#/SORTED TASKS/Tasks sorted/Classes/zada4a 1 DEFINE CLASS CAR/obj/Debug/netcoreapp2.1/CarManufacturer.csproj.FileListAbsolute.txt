@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\CarManufacturer.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\bin\Debug\netcoreapp2.1\CarManufacturer.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\CarManufacturer.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 DEFINE CLASS CAR\obj\Debug\netcoreapp2.1\CarManufacturer.pdb

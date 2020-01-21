@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\bin\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\bin\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\bin\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\bin\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\bin\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 DICT EX SOFTUNI EXAM\obj\Debug\netcoreapp2.1\zada4a 10 DICT EX SOFTUNI EXAM.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\bin\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\bin\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\bin\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\bin\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\bin\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 6 LIST MANIPULATION BASIC\obj\Debug\netcoreapp2.1\zada4a 6 LIST MANIPULATION BASIC.pdb

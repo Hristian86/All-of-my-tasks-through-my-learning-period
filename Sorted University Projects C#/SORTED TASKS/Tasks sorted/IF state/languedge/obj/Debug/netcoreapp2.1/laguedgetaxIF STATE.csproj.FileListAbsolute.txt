@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\laguedgetaxIF STATE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\laguedgetaxIF STATE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\laguedgetaxIF STATE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\laguedgetaxIF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\bin\Debug\netcoreapp2.1\laguedgetaxIF STATE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\languedge\obj\Debug\netcoreapp2.1\laguedgetaxIF STATE.pdb

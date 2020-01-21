@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\bin\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\bin\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\bin\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\bin\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\bin\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\obj\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\obj\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\obj\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\obj\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\ZADA4A 1 STACK EXERS\obj\Debug\netcoreapp2.1\ZADA4A 1 STACK EXERS.pdb

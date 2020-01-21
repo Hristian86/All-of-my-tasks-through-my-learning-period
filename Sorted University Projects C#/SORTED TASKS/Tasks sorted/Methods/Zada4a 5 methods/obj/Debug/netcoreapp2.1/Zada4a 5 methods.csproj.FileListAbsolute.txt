@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\bin\Debug\netcoreapp2.1\Zada4a 5 methods.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\bin\Debug\netcoreapp2.1\Zada4a 5 methods.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\bin\Debug\netcoreapp2.1\Zada4a 5 methods.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\bin\Debug\netcoreapp2.1\Zada4a 5 methods.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\bin\Debug\netcoreapp2.1\Zada4a 5 methods.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 5 methods\obj\Debug\netcoreapp2.1\Zada4a 5 methods.pdb

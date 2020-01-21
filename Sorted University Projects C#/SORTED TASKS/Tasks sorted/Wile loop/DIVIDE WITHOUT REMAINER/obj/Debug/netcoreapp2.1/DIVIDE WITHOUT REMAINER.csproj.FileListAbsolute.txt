@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\bin\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\bin\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\bin\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\bin\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\bin\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.dll
+C:\Users\Pencho\source\repos\zada4izaispit\DIVIDE WITHOUT REMAINER\obj\Debug\netcoreapp2.1\DIVIDE WITHOUT REMAINER.pdb

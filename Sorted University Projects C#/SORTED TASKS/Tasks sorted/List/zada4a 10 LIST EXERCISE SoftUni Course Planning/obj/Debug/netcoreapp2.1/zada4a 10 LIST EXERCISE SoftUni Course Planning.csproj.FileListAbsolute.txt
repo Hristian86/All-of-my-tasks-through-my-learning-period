@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\bin\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\bin\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\bin\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\bin\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\bin\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 10 LIST EXERCISE SoftUni Course Planning\obj\Debug\netcoreapp2.1\zada4a 10 LIST EXERCISE SoftUni Course Planning.pdb

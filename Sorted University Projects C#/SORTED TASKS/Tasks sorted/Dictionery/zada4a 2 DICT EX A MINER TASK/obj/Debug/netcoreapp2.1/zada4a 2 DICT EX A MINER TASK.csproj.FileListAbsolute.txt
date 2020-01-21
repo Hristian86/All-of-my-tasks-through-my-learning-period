@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\bin\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\bin\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\bin\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\bin\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\bin\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 2 DICT EX A MINER TASK\obj\Debug\netcoreapp2.1\zada4a 2 DICT EX A MINER TASK.pdb

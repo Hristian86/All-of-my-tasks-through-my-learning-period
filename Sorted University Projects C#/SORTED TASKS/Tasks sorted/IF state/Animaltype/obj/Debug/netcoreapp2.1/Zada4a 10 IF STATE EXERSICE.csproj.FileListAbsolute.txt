@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\bin\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Animaltype\obj\Debug\netcoreapp2.1\Zada4a 10 IF STATE EXERSICE.csprojAssemblyReference.cache

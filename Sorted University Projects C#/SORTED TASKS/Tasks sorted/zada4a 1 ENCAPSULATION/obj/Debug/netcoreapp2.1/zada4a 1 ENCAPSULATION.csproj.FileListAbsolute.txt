@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\bin\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\bin\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\bin\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\bin\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\bin\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ENCAPSULATION\obj\Debug\netcoreapp2.1\zada4a 1 ENCAPSULATION.pdb

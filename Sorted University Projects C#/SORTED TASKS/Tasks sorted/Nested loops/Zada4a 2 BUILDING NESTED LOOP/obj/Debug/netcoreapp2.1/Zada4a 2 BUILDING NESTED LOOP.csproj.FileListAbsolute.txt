@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\bin\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Zada4a 2 BUILDING NESTED LOOP\obj\Debug\netcoreapp2.1\Zada4a 2 BUILDING NESTED LOOP.pdb

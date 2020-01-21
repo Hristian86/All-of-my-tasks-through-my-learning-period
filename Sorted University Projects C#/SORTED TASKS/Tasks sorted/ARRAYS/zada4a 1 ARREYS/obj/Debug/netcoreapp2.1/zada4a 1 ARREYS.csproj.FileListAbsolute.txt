@@ -1,0 +1,10 @@
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\bin\Debug\netcoreapp2.1\zada4a 1 ARREYS.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS.dll
+C:\Users\Pencho\source\repos\zada4izaispit\zada4a 1 ARREYS\obj\Debug\netcoreapp2.1\zada4a 1 ARREYS.pdb

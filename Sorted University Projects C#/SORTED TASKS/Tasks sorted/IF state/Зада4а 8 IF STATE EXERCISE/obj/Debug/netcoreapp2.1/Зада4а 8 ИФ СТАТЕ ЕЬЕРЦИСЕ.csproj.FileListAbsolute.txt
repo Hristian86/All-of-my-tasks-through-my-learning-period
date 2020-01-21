@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\bin\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.deps.json
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\bin\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.runtimeconfig.json
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\bin\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\bin\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\bin\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.pdb
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.csproj.CoreCompileInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.dll
+C:\Users\Pencho\source\repos\zada4izaispit\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ\obj\Debug\netcoreapp2.1\Зада4а 8 ИФ СТАТЕ ЕЬЕРЦИСЕ.pdb
