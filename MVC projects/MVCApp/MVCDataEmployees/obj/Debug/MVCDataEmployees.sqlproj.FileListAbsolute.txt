@@ -1,0 +1,6 @@
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\bin\Debug\MVCDataEmployees.dacpac
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\bin\Debug\MVCDataEmployees.dll
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\bin\Debug\MVCDataEmployees.pdb
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\obj\Debug\MVCDataEmployees.sqlprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\obj\Debug\MVCDataEmployees.dll
+C:\Users\Pencho\source\repos\MVCApp\MVCDataEmployees\obj\Debug\MVCDataEmployees.pdb
