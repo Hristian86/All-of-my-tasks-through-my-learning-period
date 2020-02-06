@@ -1,0 +1,60 @@
+  <div class="row">
+                    <div class="heading">HEADING</div>
+                    
+                    <div class="show">
+                            <div class="button" onclick="func()">Pres It</div>
+                           </div>
+                    <div class="col">
+                         
+                            <p id="hide">  Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                    The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                    </div>
+                    <div class="col">
+                            <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                    The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                    </div>
+                    <div class="col">
+                            <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                    The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                    </div>
+                </div>  
+
+        <div class="row">
+            <p class="banner">
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+                ashdahsdha<br/>
+                ashdahsdhaa
+                asdadsasd
+                asdasdasd
+                asdasdasd<br/>
+            </p>
+        </div>
+        <div class="row">
+            <div class="col">
+                    <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                            The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+            </div>
+            <div class="col">
+                    <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                            The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+            </div>
+            <div class="col">
+                    <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                            The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+            </div>
+        </div>
+        <div class="row">
+                <div class="col">
+                        <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                </div>
+                <div class="col">
+                        <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                </div>
+                <div class="col">
+                        <p>Whitesmoke #f5f5f5 color hex - RGB (245,245,245)
+                                The color hexa f5f5f5 is equivalent in RGB decimal 245, 245, 245 is 245 of red, 245 of green and 245 of blue. It can also be represented by the HSL (hue, saturation and lightness) parameters, which are 0.000 of hue (0), 0.000 of saturation (0) and 0.961 of lightness (96).</p>
+                </div>
+            </div>
+    </div>

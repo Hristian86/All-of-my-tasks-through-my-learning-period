@@ -1,0 +1,82 @@
+﻿@model loginTest.Models.Authentication
+@{
+    ViewBag.Title = "Sign";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm("Authorise", "Login", FormMethod.Post))
+{
+
+    @Html.AntiForgeryToken()
+    @*<table>
+        <tr>
+            <td></td>
+            <td id="app-name">App Name</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.User)</td>
+            <td>@Html.EditorFor(model => model.User, new { htmlAttributes = new { @class = "form-control" } })</td>*@
+
+    @*<td>@Html.EditorFor(model => model.User)</td>*@
+
+    @*</tr>
+        <tr>
+            <td>@Html.ValidationMessageFor(model => model.User)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.PassWord)</td>
+            <td>@Html.EditorFor(model => model.PassWord, new { htmlAttributes = new { @class = "form-control" } })</td>*@
+
+    @*<td>@Html.EditorFor(model => model.PassWord)</td>*@
+    @*</tr>
+        <tr>
+            <td>@Html.ValidationMessageFor(model => model.PassWord)</td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="User" value="Login" class="btn btn-default" /></td>
+            <td><input type="reset" name="PassWord" value="reset" class="btn btn-default" /></td>
+        </tr>*@
+
+    @*</table>*@
+
+
+
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.User, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.User, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.User, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PassWord, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PassWord, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PassWord, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+
+}
+
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+
