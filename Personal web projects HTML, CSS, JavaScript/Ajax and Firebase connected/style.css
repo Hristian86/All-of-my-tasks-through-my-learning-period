@@ -1,0 +1,17 @@
+#container{
+    display: block;
+    width: 80%;
+    background: skyblue;
+    height: 80px;
+    margin:15px auto;
+}
+button{
+    margin: auto;
+}
+#formi{
+    display: block;
+    margin: auto;
+    text-align: center;
+    background-color: lightgray;
+    width:80%;
+}
