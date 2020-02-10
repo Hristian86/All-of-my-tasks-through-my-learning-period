@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>testove_BIG_MM_END_OF_NOVEMBER</RootNamespace>
-  </PropertyGroup>
-
-</Project>
