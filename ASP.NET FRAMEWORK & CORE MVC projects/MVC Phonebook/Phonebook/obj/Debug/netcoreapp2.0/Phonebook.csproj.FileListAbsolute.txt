@@ -31,3 +31,17 @@ C:\Users\Pencho\Desktop\Softunitests\MVC\Phonebook\bin\Debug\netcoreapp2.0\Phone
 C:\Users\Pencho\Desktop\Softunitests\MVC\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
 C:\Users\Pencho\Desktop\Softunitests\MVC\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
 C:\Users\Pencho\Desktop\Softunitests\MVC\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\appsettings.Development.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\appsettings.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\bundleconfig.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+E:\FilesForGithub\GIT REPOSITORY\ASP.NET FRAMEWORK & CORE MVC projects\MVC Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
