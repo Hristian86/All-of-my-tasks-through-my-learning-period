@@ -1,0 +1,33 @@
+function fadeBackground(x) {
+
+  x.style.opacity = 0;
+  var ops = 0.0;
+
+  // for (let i=1; i<10; i++) {
+    // setInterval() (dsp(i),1000)
+
+    var myVar = setInterval( function (){
+     var  s = `0.${i}`;
+     console.log(s);
+
+     setTimeout( function (){
+      
+       x.style.opacity = s;
+      }, 550 );
+
+     var h = 8;
+     if(i == h) {
+       s = 1;
+       clearInterval(myVar);
+       return;
+      }
+      i+=2;
+    }, 100 );
+
+  }
+
+
+jquery fade in
+$(document).ready(function(){
+    $(".fade").hide(0).delay(500).fadeIn(3000)
+});

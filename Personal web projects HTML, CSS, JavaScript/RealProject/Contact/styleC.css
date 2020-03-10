@@ -1,0 +1,122 @@
+html {
+	overflow-x: hidden;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #d3d3d3;
+    
+    
+}
+
+/* to keep fotter at bottom place */
+.spacer {
+	height: 460px;
+}
+
+
+/* Contact Form */
+
+h2 {
+	color: #444;
+	margin-left: 30px;
+}
+
+p {
+	margin-left: 30px;
+}
+
+#contact-form .form-group {
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+
+#contact-form label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+	width: 300px;
+	padding: 10px;
+	border: 1px #ddd solid;
+}
+
+#contact-form textarea {
+	height: 300px;
+}  
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+	outline: none;
+	border-color: #eece59;
+}
+
+.btn {
+	display: inline-block;
+	background: #eece59;
+	margin-left: 30px;
+	color: #fff;
+	font-size: 20px;
+	padding: 0.5rem 1.5rem;
+	font-family: 'Cambay', sans-serif;
+}
+
+.btn:hover {
+	background: #c5a04a;
+	color: #fff;
+	transition: ease-in 1s;
+}
+
+/* NAVBAR */
+
+.current {
+	background: #444;
+}
+
+.togglebtn {
+	color: white;
+	text-shadow: 0 10px 15px #000000b0;
+}
+
+.navigation {
+    position: fixed;
+    background-color: rgba(119, 118, 118, 0.7);
+    width: 100%;
+    height: 8%;
+    z-index: 1;
+}
+
+.links {
+	color: white;
+	/* text-shadow: 0.1px 2px 5px black; */
+	font-family: 'Cambay', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-right: 45px;
+	padding-left: 45px;
+	padding-top: 17px;
+	font-size: 24px;
+}
+
+.linkSpace {
+	margin-right: 20px;
+}
+
+.links:hover {
+	/* color: #eece59; */
+    background: #444;
+    color: #eece59;
+}
+
+/* footer */
+.footer-copyright {
+	margin-top: -25px;
+	background: #444;
+	color: #eece59 ;
+	text-align: center;
+	z-index: 2;
+}

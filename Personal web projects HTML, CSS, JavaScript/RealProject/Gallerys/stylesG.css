@@ -1,0 +1,172 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #d3d3d3;
+    
+}
+
+#about {
+    text-align: center;
+    color: white;
+   
+}
+
+h1 {
+    font-family: 'Cambay', sans-serif;
+    text-align: center;
+    /* box-shadow: 20px 20px 20px 20px; */
+    z-index: 1;
+    color: #444;
+    /* text-shadow: 0 10px 15px #000000b0; */
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #444;
+    /* text-shadow: 0 10px 15px #000000b0; */
+}
+
+/* NAVBAR */
+
+.current {
+	background: #444;
+}
+
+.navigation {
+    position: fixed;
+    background-color: rgba(119, 118, 118, 0.7);
+    width: 100%;
+    height: 8%;
+    z-index: 1;
+}
+.links {
+	color: white;
+	/* text-shadow: 0.1px 2px 5px black; */
+	font-family: 'Cambay', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-right: 45px;
+	padding-left: 45px;
+	padding-top: 17px;
+	font-size: 24px;
+}
+
+.linkSpace {
+	margin-right: 20px;
+}
+
+.links:hover {
+	/* color: #eece59; */
+    background: #444;
+    color: #eece59;
+}
+
+
+.togglebtn {
+	color: white;
+	text-shadow: 0 10px 15px #000000b0;
+}
+/* flip card */
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+
+/* .col {
+    display: block;
+    margin: auto;
+    background-color: skyblue;
+} */
+/* 
+.row {
+    padding-right: 180px;
+} */
+
+.seaction-heading {
+    text-align: center;
+}
+
+.col {
+    /* background-color: skyblue; */
+    /* border: solid 1px black; */
+    height: 550px;
+}
+
+.centers {
+    /* text-align: center; */
+    
+    /* background-color: red; */
+    /* margin: auto; */
+
+    /* margin: auto; */
+	padding-left: 130px;
+}  
+
+.flip-card {
+	background-color: transparent;
+	width: 350px;
+	height: 500px;
+	border: 1px solid #f1f1f1;
+	margin-bottom: 50px;
+	perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-card-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+	margin-bottom: 20px;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back side */
+  .flip-card-front, .flip-card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	-webkit-backface-visibility: hidden; /* Safari */
+	backface-visibility: hidden;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+	background-color: #bbb;
+	color: black;
+  }
+  
+  /* Style the back side */
+  .flip-card-back {
+	background-color:#eece59;
+	color: white;
+	transform: rotateY(180deg);
+  }
+  
+.footer-copyright {
+    margin-bottom: -400px;
+    margin-top: -25px;
+    background: #444;
+    color: #eece59 ;
+    text-align: center;
+    z-index: 2;
+}
+
+/* ENDNAVBAR */
+
+.descript {
+    background-color: skyblue;
+}
+
+

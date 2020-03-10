@@ -1,0 +1,346 @@
+body {
+  padding: 0px;
+  margin: 0px;
+	background: #d3d3d3  url(../images/WEB-MN-background.png) center bottom;
+	position: static;
+	background-size: cover;
+	background-size: 101% , 25%;
+	/* color: #d3d3d3 ; */
+	padding: 20px , 0px ;
+	background-position: center top -80px;
+	background-repeat: no-repeat;
+
+}
+
+/* .wrapper {
+	display: none;
+} */
+
+/* shadow effect */
+/* .shadowbox {
+	/* width: 250px; */
+	/* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+	/* box-shadow: 0px 0px 10px 10px; */
+	/* text-align: center; */
+  /* }  */
+
+
+ul li a li h1{ text-decoration: none; }
+
+/* Shrift tests :) */
+p{
+	font-family: 'Cambay', sans-serif;
+	
+}
+
+/* spacing betwean navbar and the contend below */
+
+.rows {
+	font-size: 24px;
+	
+}
+
+.description {
+	display: block;
+	color: #444;
+	font-family: 'Cambay', sans-serif;
+	margin-left: -20px;
+	margin-top: 65px;
+	text-align: center;
+	width: 100%;
+	padding-right: 12em;
+}
+
+
+
+.btn {
+	display: inline-block;
+	background: #eece59;
+	color: #FFF;
+	margin-top: 0.5rem;
+	margin-left: -1.5rem;
+	border-radius: 10px;
+	font-size: 25px;
+	padding: 0.5rem 1.5rem;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.btn:hover {
+	background: #b2944c ;
+	color: #fff;
+	transition: ease-in 1s;
+}
+
+/* flip card css */
+
+/* flip card */
+.spaceLogo{
+	
+	width: 90%;
+}
+.cardset {
+	padding-top: 40px;
+	height: 500px;
+	width:350px;
+	text-align: center;
+	/* background-color: skyblue; */
+	color: whitesmoke;
+	text-transform: uppercase;
+	cursor: pointer;
+	
+	/* background: url(https://imgix.bustle.com/uploads/image/2018/10/22/36f3c02d-ad61-4f92-b175-b6e09d89609f-shutterstock_226343569.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70); */
+	background-size: cover;
+	background-color: skyblue;
+}
+.cardset:hover {
+
+}
+.cards {
+	padding-top: 120px;
+}
+
+/* cards */
+
+.space{
+	background:  url(../images/WEB-MN-logo.png) center right;
+	background-repeat: no-repeat;
+	background-size: 550px;
+	background-position-y: 140px;
+	background-position-x: right;
+	height: 1500px;
+	width: 75%;
+}
+
+/* NAVIGATION BAR */
+
+#pic{
+    float: left;
+    margin-top: 12px;
+	width: 66%;
+	height:66px;
+}
+/* Nav menu */
+
+/* true navigation bar */
+
+.current {
+	background: #444;
+}
+
+.navigation {
+	position: fixed;
+	background-color: rgba(119, 118, 118, 0.7);
+	width: 100%;
+	height: 8%;
+	z-index: 1;
+}
+.links {
+	color: white;
+	/* text-shadow: 0.1px 2px 5px black; */
+	font-family: 'Cambay', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-right: 45px;
+	padding-left: 45px;
+	padding-top: 17px;
+	font-size: 24px;
+}
+
+.linkSpace {
+	margin-right: 20px;
+}
+
+.links:hover {
+	/* color: #eece59; */
+	color: #eece59;
+	background: #444;
+}
+.butun {
+	/* background-color: skyblue; */
+}
+
+/* END OF NAVIGATION BAR */
+
+.box {
+	/* background-color: skyblue; */
+	height: 345px;
+	text-align: center;
+}
+.foot {
+	text-align: center;
+}
+#bo1 {
+	background: url(../images/Logo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: -185px;
+}
+
+.centers {
+	text-align: center;
+	/* background-color: red; */
+	padding-left: 150px;
+}
+
+.wrapper {
+	height: 500px;
+	/* background-color: red; */
+}
+.morespace {
+	height: 300px;
+	text-align: center;
+	padding-top: 100px;
+	text-transform: uppercase;
+	color: whitesmoke;
+}
+.staff {
+	color: #444;
+	font-size: 30px;
+}
+
+.togglebtn {
+	color: white;
+	text-shadow: 0 10px 15px #000000b0;
+}
+
+.btn {
+	
+}
+.design {
+	display: none;
+}
+/* Mobile SCREEN */
+@media screen and (max-width:1024px)
+{
+	body {
+		background: #d3d3d3;
+	}
+
+	.design {
+		display: inline-block;
+		width: 55%;
+		padding-bottom: 50px;
+		padding-right: 20px;
+	}
+
+	.space {
+
+	}
+
+	.wrapper {
+		width: 100%;
+	}
+
+	.description {
+		width: 100%;
+		padding: 0px;
+		padding-left: 70px;
+	}
+	.space {
+		width: 100%;
+		height: 1200px;
+		background:  url(../images/WEB-MN-logo.png) center right;
+		background-repeat: no-repeat;
+		background-size: 250px;
+		background-position-y: 100px;
+		background-position-x: center;
+		padding-bottom: 0px;
+	}
+
+	.footera {
+		margin-top:250px
+	}
+
+	.head{
+		position: fixed;
+		width: 100%;
+	}
+	.toggle
+	{
+		display: block;
+	}
+	.box{
+		width: 40%;
+	}
+	body{
+		background: url(../images/WEB-MN-background.png) center right bottom;
+		background-size: cover;
+		background-size: 40%;
+		background-position: center top;
+		background-position-y: 120px;
+		background-repeat: no-repeat;
+	}
+	.container1{
+		background: none;
+	}
+    .list
+   {
+	width: 100%;
+	display: none;
+   }
+    .list li
+    {
+	display: block;
+	text-align: center;
+    }
+    .active
+    {
+ 	   display: block;
+    }
+}
+   .carousel-inner {
+		 margin-top: -380px;
+		 margin-bottom: 100px;
+		 padding-right: 50px;
+		 padding-left: 50px;
+	 }
+
+/* zoom effect */
+
+.zoom {
+	/* padding: 50px; */
+	/* background-color: green; */
+	/* transition: transform .2s; Animation */
+	/* width: 200px; */
+	/* height: 200px; */
+	/* margin: 0 auto; */
+  }
+  
+  .zoom:hover {
+	transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+	/* box-shadow: 0px 0px 20px 2	0px; */
+	/* -moz-box-shadow: 1px 2px 3px brown;
+	-webkit-box-shadow: 1px 2px 3px brown;
+	box-shadow: 1px 2px 3px brown; */
+}
+
+/* END OF MOBILE SCREEN */
+
+
+
+.photospace {
+	  /* background-color: black; */
+  }
+
+.toper {
+	text-align: center;
+}
+
+.footer-copyright {
+	margin-bottom: -23px;
+	
+	margin-top: -50px;
+	background: #444;
+	color: #eece59 ;
+	text-align: center;
+	z-index: 2;
+
+
+
+
+
+
+
+	
