@@ -1,0 +1,6 @@
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Pencho\Desktop\Data structures\Linked-List\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

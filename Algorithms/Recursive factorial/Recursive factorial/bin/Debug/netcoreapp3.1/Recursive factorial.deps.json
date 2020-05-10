@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Recursive factorial/1.0.0": {
+        "runtime": {
+          "Recursive factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursive factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

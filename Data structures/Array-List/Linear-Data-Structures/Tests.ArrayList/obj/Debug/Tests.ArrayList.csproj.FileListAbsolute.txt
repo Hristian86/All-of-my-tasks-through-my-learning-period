@@ -1,0 +1,10 @@
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+C:\Users\Pencho\Desktop\Data structures\Linked List\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb
