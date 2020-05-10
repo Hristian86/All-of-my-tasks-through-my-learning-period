@@ -1,0 +1,12 @@
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.exe
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.deps.json
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.runtimeconfig.json
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.dll
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\bin\Debug\netcoreapp3.1\Labyrint.pdb
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.dll
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.pdb
+C:\Users\Pencho\source\repos\Labyrint\Labyrint\obj\Debug\netcoreapp3.1\Labyrint.genruntimeconfig.cache
