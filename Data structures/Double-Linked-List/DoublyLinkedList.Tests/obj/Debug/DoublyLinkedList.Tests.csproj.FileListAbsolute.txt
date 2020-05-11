@@ -1,0 +1,9 @@
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojAssemblyReference.cache
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Pencho\Desktop\Link\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
