@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\bin\Debug\netcoreapp3.1\TestSQL.Data.deps.json
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\bin\Debug\netcoreapp3.1\TestSQL.Data.dll
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\bin\Debug\netcoreapp3.1\TestSQL.Data.runtimeconfig.json
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\bin\Debug\netcoreapp3.1\TestSQL.Data.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.genruntimeconfig.cache
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\bin\Debug\netcoreapp3.1\TestSQL.Data.pdb
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.dll
+C:\Users\Pencho\source\repos\TestsSQL\TestSQL.Data\obj\Debug\netcoreapp3.1\TestSQL.Data.pdb
