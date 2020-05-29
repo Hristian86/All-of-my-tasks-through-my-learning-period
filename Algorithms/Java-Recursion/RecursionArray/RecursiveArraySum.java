@@ -23,7 +23,7 @@ public class RecursiveArraySum {
         System.out.print(num);
     }
 
-    public static int RecursiveArr(int[] numbers,int index) {
+    private static int RecursiveArr(int[] numbers,int index) {
         if (index >= numbers.length) {
             return 0;
         }

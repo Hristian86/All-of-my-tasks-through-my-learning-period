@@ -16,7 +16,7 @@ public class RecDrawing {
         Draw(number);
     }
 
-    public static void Draw(int number){
+    private static void Draw(int number){
         if (number == 0) {
             return;
         }
