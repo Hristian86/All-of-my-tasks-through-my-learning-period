@@ -32,7 +32,7 @@ public class PathsInLabirint {
     }
 
     private static void Paths(char[][] labyrinth, int row, int col, char direction) {
-        if ((IfInBound(labyrinth, row, col)) 
+        if ((IfOutBound(labyrinth, row, col)) 
         || labyrinth[row][col] == 'V'
         || labyrinth[row][col] == '*') {
             
@@ -67,7 +67,7 @@ public class PathsInLabirint {
     //     return row < labyrinth.length && row >= 0 && col < labyrinth[row].length && col >= 0;
     // }
 
-    private static boolean IfInBound(char[][] labyrinth, int row, int col) {
+    private static boolean IfOutBound(char[][] labyrinth, int row, int col) {
         return row >= labyrinth.length || row < 0 || col >= labyrinth[row].length || col < 0;
     }
 
