@@ -5,7 +5,11 @@ import java.util.Scanner;
  */
 public class ReverseArr {
 
+//     1. Reverse Array
+// Write a program that reverses and prints an array. Use recursion.
+
     static int[] reversedArr;
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();

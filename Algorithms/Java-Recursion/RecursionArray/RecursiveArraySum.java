@@ -14,16 +14,16 @@ public class RecursiveArraySum {
         
         Scanner scanner = new Scanner(System.in);
 
-        int[] numbers  = Arrays.stream(scanner.nextLine().split(" "))
-                        .mapToInt(Integer::parseInt)
-                        .toArray();
+        // int[] numbers  = Arrays.stream(scanner.nextLine().split(" "))
+        //                 .mapToInt(Integer::parseInt)
+        //                 .toArray();
 
-        // int[] numbers = new int[]{1,2,3,4};
+        int[] numbers = new int[]{1,2,3,4};
         int num = RecursiveArr(numbers,0);
         System.out.print(num);
     }
 
-    private static int RecursiveArr(int[] numbers,int index) {
+    public static int RecursiveArr(int[] numbers,int index) {
         if (index >= numbers.length) {
             return 0;
         }

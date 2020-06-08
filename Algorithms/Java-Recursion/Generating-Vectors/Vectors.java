@@ -7,8 +7,10 @@ import javax.sql.StatementEventListener;
  */
 public class Vectors {
 
+	//Generate all n-bit vectors of zeroes and ones in lexicographic order.	
+
     public static void main(String[] args) {
-        Scanner scanner= new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int number = Integer.parseInt(scanner.nextLine());
         // int number = 3;
 

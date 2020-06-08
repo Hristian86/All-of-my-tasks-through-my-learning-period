@@ -9,14 +9,14 @@ public class RecDrawing {
 // Write a program that draws the figure below depending on n. Use recursion.
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int number = Integer.parseInt(scanner.nextLine());
-        // int number = 5;
+        // Scanner scanner = new Scanner(System.in);
+        // int number = Integer.parseInt(scanner.nextLine());
+        int number = 5;
         
         Draw(number);
     }
 
-    private static void Draw(int number){
+    public static void Draw(int number){
         if (number == 0) {
             return;
         }
