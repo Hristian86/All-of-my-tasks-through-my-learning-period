@@ -20,10 +20,12 @@ public class Cinema {
 // they will sit there only. The order of the output does not matter.
 // Constrains
 //  The friends names and the number of the place will always be valid
+
     private static List<String> people;
     private static String[] combinations;
     private static String[] seats;
     private static boolean[] used;
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
