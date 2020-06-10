@@ -21,7 +21,7 @@ public class WordCruncher {
     private static List<String> words;
     private static List<String> combined = new ArrayList<>();
     private static String target;
-    private static StringBuilder builder = new StringBuilder();
+    // private static StringBuilder builder = new StringBuilder();
     private static List<String> arrs = new ArrayList<>();
     // private static boolean[] used;
 
