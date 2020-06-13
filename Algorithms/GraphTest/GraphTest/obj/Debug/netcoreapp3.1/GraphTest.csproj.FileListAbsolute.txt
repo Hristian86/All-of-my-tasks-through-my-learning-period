@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.exe
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.deps.json
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.runtimeconfig.json
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.dll
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\bin\Debug\netcoreapp3.1\GraphTest.pdb
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\obj\Debug\netcoreapp3.1\GraphTest.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\obj\Debug\netcoreapp3.1\GraphTest.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\obj\Debug\netcoreapp3.1\GraphTest.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\obj\Debug\netcoreapp3.1\GraphTest.dll
+C:\Users\Pencho\source\repos\GraphTest\GraphTest\obj\Debug\netcoreapp3.1\GraphTest.pdb
