@@ -44,30 +44,40 @@ namespace Generic_Test.Logic
         {
             for (int j = i + 1; j < coll.Count; j++)
             {
-                T next = coll[j];
+                this.InnerCompare(i, j, coll, propertyInfo, obj);
+            }
+        }
 
-                foreach (var property1 in propertyInfo)
+        private void InnerCompare<T>(int i, int j, List<T> coll, PropertyInfo[] propertyInfo, T obj) where T : class
+        {
+            T next = coll[j];
+
+            foreach (var property1 in propertyInfo)
+            {
+                // Iterate through all properties in ProperyInfo array and get the value.
+                var firstVal = property1.GetValue(obj).ToString();
+
+                Type typeNextEl = next.GetType();
+                PropertyInfo[] propertyInfo2 = typeNextEl.GetProperties();
+
+                this.SearchInRestOfCollection(propertyInfo2, firstVal, next);
+            }
+        }
+
+        private void SearchInRestOfCollection<T>(PropertyInfo[] propertyInfo2, string firstVal, T next) where T : class
+        {
+            foreach (var property2 in propertyInfo2)
+            {
+                var secondVal = property2.GetValue(next).ToString();
+
+                if (firstVal == secondVal)
                 {
-                    // Iterate through all properties in ProperyInfo array and get the value.
-                    var firstVal = property1.GetValue(obj).ToString();
-
-                    Type typeNextEl = next.GetType();
-                    PropertyInfo[] propertyInfo2 = typeNextEl.GetProperties();
-
-                    foreach (var property2 in propertyInfo2)
-                    {
-                        var secondVal = property2.GetValue(next).ToString();
-
-                        if (firstVal == secondVal)
-                        {
-                            Console.WriteLine(firstVal);
-                            Console.WriteLine("true");
-                        }
-                        else
-                        {
-                            Console.WriteLine("false");
-                        }
-                    }
+                    Console.WriteLine(firstVal);
+                    Console.WriteLine("true");
+                }
+                else
+                {
+                    Console.WriteLine("false");
                 }
             }
         }
