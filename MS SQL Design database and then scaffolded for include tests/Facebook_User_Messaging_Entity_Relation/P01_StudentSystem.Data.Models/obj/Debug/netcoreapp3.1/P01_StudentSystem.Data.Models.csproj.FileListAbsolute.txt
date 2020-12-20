@@ -1,0 +1,8 @@
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.deps.json
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+C:\Users\Pencho\source\repos\P01_StudentSystem\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb

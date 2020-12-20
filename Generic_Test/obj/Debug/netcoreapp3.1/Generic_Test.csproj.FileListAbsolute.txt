@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.exe
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.deps.json
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.runtimeconfig.json
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.dll
+C:\Users\Pencho\source\repos\Generic_Test\bin\Debug\netcoreapp3.1\Generic_Test.pdb
+C:\Users\Pencho\source\repos\Generic_Test\obj\Debug\netcoreapp3.1\Generic_Test.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\Generic_Test\obj\Debug\netcoreapp3.1\Generic_Test.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\Generic_Test\obj\Debug\netcoreapp3.1\Generic_Test.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\Generic_Test\obj\Debug\netcoreapp3.1\Generic_Test.dll
+C:\Users\Pencho\source\repos\Generic_Test\obj\Debug\netcoreapp3.1\Generic_Test.pdb

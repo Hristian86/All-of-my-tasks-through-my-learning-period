@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.exe
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.deps.json
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.runtimeconfig.json
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.dll
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\bin\Debug\netcoreapp3.1\MatrixTest.pdb
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\obj\Debug\netcoreapp3.1\MatrixTest.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\obj\Debug\netcoreapp3.1\MatrixTest.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\obj\Debug\netcoreapp3.1\MatrixTest.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\obj\Debug\netcoreapp3.1\MatrixTest.dll
+C:\Users\Pencho\source\repos\MatrixTest\MatrixTest\obj\Debug\netcoreapp3.1\MatrixTest.pdb

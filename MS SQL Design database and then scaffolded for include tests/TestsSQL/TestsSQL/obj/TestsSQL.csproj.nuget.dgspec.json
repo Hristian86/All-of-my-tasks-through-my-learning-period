@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestsSQL\\TestsSQL.csproj": {}
+    "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestsSQL\\TestsSQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj": {
+    "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
+        "projectUniqueName": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
         "projectName": "TestSQL.Data",
-        "projectPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
+        "projectPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
         "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\obj\\",
+        "outputPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -79,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestsSQL\\TestsSQL.csproj": {
+    "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestsSQL\\TestsSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestsSQL\\TestsSQL.csproj",
+        "projectUniqueName": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestsSQL\\TestsSQL.csproj",
         "projectName": "TestsSQL",
-        "projectPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestsSQL\\TestsSQL.csproj",
+        "projectPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestsSQL\\TestsSQL.csproj",
         "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestsSQL\\obj\\",
+        "outputPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestsSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -111,8 +111,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj": {
-                "projectPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj"
+              "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj": {
+                "projectPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj"
               }
             }
           }
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

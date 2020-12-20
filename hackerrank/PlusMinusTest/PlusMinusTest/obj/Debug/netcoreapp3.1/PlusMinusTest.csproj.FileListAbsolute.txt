@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.exe
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.deps.json
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.runtimeconfig.json
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.dll
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\bin\Debug\netcoreapp3.1\PlusMinusTest.pdb
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\obj\Debug\netcoreapp3.1\PlusMinusTest.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\obj\Debug\netcoreapp3.1\PlusMinusTest.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\obj\Debug\netcoreapp3.1\PlusMinusTest.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\obj\Debug\netcoreapp3.1\PlusMinusTest.dll
+C:\Users\Pencho\source\repos\PlusMinusTest\PlusMinusTest\obj\Debug\netcoreapp3.1\PlusMinusTest.pdb

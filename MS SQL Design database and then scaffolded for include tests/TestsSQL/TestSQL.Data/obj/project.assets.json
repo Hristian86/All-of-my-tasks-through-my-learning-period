@@ -4959,11 +4959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
+      "projectUniqueName": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
       "projectName": "TestSQL.Data",
-      "projectPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
+      "projectPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\TestSQL.Data.csproj",
       "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pencho\\source\\repos\\TestsSQL\\TestSQL.Data\\obj\\",
+      "outputPath": "G:\\FilesForGithub\\My-Projects\\MS SQL Design database and then scaffolded for include tests\\TestsSQL\\TestSQL.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5031,7 +5031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
