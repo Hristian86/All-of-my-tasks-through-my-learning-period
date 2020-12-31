@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\bin\Debug\netcoreapp3.1\RevArr.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\obj\Debug\netcoreapp3.1\RevArr.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\obj\Debug\netcoreapp3.1\RevArr.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\obj\Debug\netcoreapp3.1\RevArr.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\obj\Debug\netcoreapp3.1\RevArr.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\RevArr\obj\Debug\netcoreapp3.1\RevArr.pdb

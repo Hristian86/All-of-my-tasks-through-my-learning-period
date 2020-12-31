@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\bin\Debug\netcoreapp3.1\Nested_Loops.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\obj\Debug\netcoreapp3.1\Nested_Loops.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\obj\Debug\netcoreapp3.1\Nested_Loops.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\obj\Debug\netcoreapp3.1\Nested_Loops.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\obj\Debug\netcoreapp3.1\Nested_Loops.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Nested_Loops\obj\Debug\netcoreapp3.1\Nested_Loops.pdb

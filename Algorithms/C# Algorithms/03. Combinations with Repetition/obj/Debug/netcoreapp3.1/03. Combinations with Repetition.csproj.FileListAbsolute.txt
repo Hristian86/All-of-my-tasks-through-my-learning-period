@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\bin\Debug\netcoreapp3.1\03. Combinations with Repetition.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\obj\Debug\netcoreapp3.1\03. Combinations with Repetition.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\obj\Debug\netcoreapp3.1\03. Combinations with Repetition.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\obj\Debug\netcoreapp3.1\03. Combinations with Repetition.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\obj\Debug\netcoreapp3.1\03. Combinations with Repetition.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\03. Combinations with Repetition\obj\Debug\netcoreapp3.1\03. Combinations with Repetition.pdb

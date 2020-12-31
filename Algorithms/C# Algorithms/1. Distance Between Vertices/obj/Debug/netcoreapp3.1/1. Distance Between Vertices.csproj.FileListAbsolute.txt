@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\bin\Debug\netcoreapp3.1\1. Distance Between Vertices.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\obj\Debug\netcoreapp3.1\1. Distance Between Vertices.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\obj\Debug\netcoreapp3.1\1. Distance Between Vertices.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\obj\Debug\netcoreapp3.1\1. Distance Between Vertices.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\obj\Debug\netcoreapp3.1\1. Distance Between Vertices.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\1. Distance Between Vertices\obj\Debug\netcoreapp3.1\1. Distance Between Vertices.pdb

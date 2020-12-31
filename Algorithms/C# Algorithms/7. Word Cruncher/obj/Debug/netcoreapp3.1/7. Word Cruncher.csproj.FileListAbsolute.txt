@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\bin\Debug\netcoreapp3.1\7. Word Cruncher.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\obj\Debug\netcoreapp3.1\7. Word Cruncher.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\obj\Debug\netcoreapp3.1\7. Word Cruncher.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\obj\Debug\netcoreapp3.1\7. Word Cruncher.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\obj\Debug\netcoreapp3.1\7. Word Cruncher.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\7. Word Cruncher\obj\Debug\netcoreapp3.1\7. Word Cruncher.pdb

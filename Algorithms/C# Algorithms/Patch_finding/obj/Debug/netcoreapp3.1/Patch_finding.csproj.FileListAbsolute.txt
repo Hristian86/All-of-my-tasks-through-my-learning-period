@@ -1,0 +1,11 @@
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.exe
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.deps.json
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.runtimeconfig.json
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.runtimeconfig.dev.json
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.dll
+C:\Users\Pencho\source\repos\Patch_finding\bin\Debug\netcoreapp3.1\Patch_finding.pdb
+C:\Users\Pencho\source\repos\Patch_finding\obj\Debug\netcoreapp3.1\Patch_finding.csprojAssemblyReference.cache
+C:\Users\Pencho\source\repos\Patch_finding\obj\Debug\netcoreapp3.1\Patch_finding.AssemblyInfoInputs.cache
+C:\Users\Pencho\source\repos\Patch_finding\obj\Debug\netcoreapp3.1\Patch_finding.AssemblyInfo.cs
+C:\Users\Pencho\source\repos\Patch_finding\obj\Debug\netcoreapp3.1\Patch_finding.dll
+C:\Users\Pencho\source\repos\Patch_finding\obj\Debug\netcoreapp3.1\Patch_finding.pdb
