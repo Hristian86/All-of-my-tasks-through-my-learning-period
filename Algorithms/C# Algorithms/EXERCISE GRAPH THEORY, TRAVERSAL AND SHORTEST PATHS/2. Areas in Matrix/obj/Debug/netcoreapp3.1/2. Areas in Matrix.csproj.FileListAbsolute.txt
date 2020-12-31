@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\bin\Debug\netcoreapp3.1\2. Areas in Matrix.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\obj\Debug\netcoreapp3.1\2. Areas in Matrix.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\obj\Debug\netcoreapp3.1\2. Areas in Matrix.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\obj\Debug\netcoreapp3.1\2. Areas in Matrix.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\obj\Debug\netcoreapp3.1\2. Areas in Matrix.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\EXERCISE GRAPH THEORY, TRAVERSAL AND SHORTEST PATHS\2. Areas in Matrix\obj\Debug\netcoreapp3.1\2. Areas in Matrix.pdb
