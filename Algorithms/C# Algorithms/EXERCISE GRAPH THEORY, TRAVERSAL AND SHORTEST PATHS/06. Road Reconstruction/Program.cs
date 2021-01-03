@@ -30,18 +30,31 @@ namespace _06._Road_Reconstruction
         //0 - 3
         //3 - 4
         private static List<int[]> graph;
-        private static Dictionary<int, List<int>> graphToRemove;
+        private static List<int[]> parentsExcluded;
+        private static Dictionary<int, int> occurrences;
 
         static void Main(string[] args)
         {
             int highestNode = int.Parse(Console.ReadLine());
             int readCount = int.Parse(Console.ReadLine());
             graph = new List<int[]>();
-            graphToRemove = new Dictionary<int, List<int>>();
+            parentsExcluded = new List<int[]>();
+            occurrences = new Dictionary<int, int>();
 
             ReadFromConsole(readCount, highestNode);
 
             Check(highestNode);
+
+            PrintImportantRoads();
+        }
+
+        private static void PrintImportantRoads()
+        {
+            Console.WriteLine("Important streets:");
+            foreach (var street in parentsExcluded)
+            {
+                Console.WriteLine($"{street[0]} {street[1]}");
+            }
         }
 
         private static void Check(int highestNode)
@@ -49,7 +62,15 @@ namespace _06._Road_Reconstruction
             for (int i = 0; i < highestNode; i++)
             {
                 int perant = graph[i][0];
-                int distance = CalculateDistance(i, perant, perant);
+                int chield = graph[i][1];
+                var removedPair = graph[i];
+                graph.RemoveAt(i);
+                int distance = CalculateDistance(chield, perant, perant);
+                if (distance == -1)
+                {
+                    parentsExcluded.Add(new int[] { perant, chield });
+                }
+                graph.Insert(i, removedPair);
             }
         }
 
@@ -69,20 +90,24 @@ namespace _06._Road_Reconstruction
                     return distance;
                 }
 
-                if (graph[perant] != null)
+                if (!occurrences.ContainsKey(perant))
                 {
+                    occurrences[perant] = 1;
+                }
+                else
+                {
+                    occurrences[perant] += 1;
+                }
 
-                    foreach (var child in graph)
-                    {
-                        if (child[1] == perant)
-                        {
+                bool contains = graph.
+                    Any(w => w[0] == perant);
+                if (contains)
+                {
+                    var chield = graph
+                        .Where(w => w[0].Equals(perant))
+                        .ToArray();
 
-                        }
-                    }
-
-                    int chield = graph[perant][0];
-
-                    que.Enqueue(chield);
+                    que.Enqueue(chield[0][1]);
                     distance += 1;
                 }
                 else
@@ -91,7 +116,7 @@ namespace _06._Road_Reconstruction
                 }
             }
 
-            return -1;
+            return distance;
         }
 
         private static void ReadFromConsole(int readCount, int highestNode)
@@ -102,13 +127,10 @@ namespace _06._Road_Reconstruction
                 int key = int.Parse(nodes[0]);
                 int value = int.Parse(nodes[1]);
                 graph.Add(new int[] { key, value });
-                if (!graphToRemove.ContainsKey(key))
+
+                if (!occurrences.ContainsKey(key))
                 {
-                    graphToRemove[key] = (new List<int> { key, value });
-                }
-                else
-                {
-                    graphToRemove[key].Add(value);
+                    occurrences[key] = 0;
                 }
             }
         }

@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exercise Introduction to Dynamic Programming\Task1\obj\Debug\netcoreapp3.1\Task1.pdb

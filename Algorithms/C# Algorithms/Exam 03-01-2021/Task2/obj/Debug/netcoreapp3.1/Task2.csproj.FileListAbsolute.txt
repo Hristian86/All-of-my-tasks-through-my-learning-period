@@ -1,0 +1,11 @@
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+G:\FilesForGithub\My-Projects\Algorithms\C# Algorithms\Exam1\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
