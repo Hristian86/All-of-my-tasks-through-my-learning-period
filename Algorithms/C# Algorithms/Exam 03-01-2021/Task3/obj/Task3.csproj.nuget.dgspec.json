@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam1\\Task3\\Task3.csproj": {}
+    "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam 03-01-2021\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam1\\Task3\\Task3.csproj": {
+    "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam 03-01-2021\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam1\\Task3\\Task3.csproj",
+        "projectUniqueName": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam 03-01-2021\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam1\\Task3\\Task3.csproj",
+        "projectPath": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam 03-01-2021\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\Pencho\\.nuget\\packages\\",
-        "outputPath": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam1\\Task3\\obj\\",
+        "outputPath": "G:\\FilesForGithub\\My-Projects\\Algorithms\\C# Algorithms\\Exam 03-01-2021\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

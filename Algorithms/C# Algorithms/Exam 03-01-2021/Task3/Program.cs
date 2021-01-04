@@ -14,49 +14,58 @@ namespace Task3
         {
             FillGraph();
 
-            ConToCheck();
+            ConnectionsToCheck();
+
+            CheckTheGraphConnections();
+        }
+
+        private static void CheckTheGraphConnections()
+        {
             for (int i = 0; i < checkGraph.Count; i++)
             {
-                var res = Sol(checkGraph[i]);
-                if (res)
-                {
-                    Console.WriteLine("yes");
-                }
-                else
-                {
-                    Console.WriteLine("no");
-                }
+                bool result = Sol(checkGraph[i]);
+                Print(result);
             }
+        }
+
+        private static void Print(bool result)
+        {
+            Console.WriteLine(result ? "yes" : "no");
         }
 
         private static bool Sol(List<int[]> list)
         {
-            var que = new Queue<int[]>();
-            que.Enqueue(list[0]);
-            list.RemoveAt(0);
-
-            while (que.Count > 0)
+            for (int i = 0; i < list.Count; i++)
             {
-                var pair = que.Dequeue();
-                var perant = pair[0];
-                var chield = pair[1];
+                int[] pair = list[i];
+                int perant = pair[0];
+                int chield = pair[1];
+                bool contains = false;
 
-                if (!graph[perant].Contains(chield))
+                foreach (int node in graph[perant])
+                {
+                    if (node == chield)
+                    {
+                        contains = true;
+                    }
+                }
+
+                if (!contains)
                 {
                     return false;
                 }
 
-                if (list.Count > 0)
-                {
-                    que.Enqueue(list[0]);
-                    list.RemoveAt(0);
-                }
+                // Easy variant.
+                //if (!graph[perant].Contains(chield))
+                //{
+                //    return false;
+                //}
             }
 
             return true;
         }
 
-        private static void ConToCheck()
+        private static void ConnectionsToCheck()
         {
             int count = int.Parse(Console.ReadLine());
             checkGraph = new List<List<int[]>>();
@@ -81,9 +90,10 @@ namespace Task3
             }
         }
 
+        // Not used.
         private static void Connections()
         {
-            var read = Console.ReadLine();
+            string read = Console.ReadLine();
             int counter = 0;
             while (read != " ")
             {
@@ -121,7 +131,7 @@ namespace Task3
                 string read = Console.ReadLine();
                 if (read != null && read != " " && read.Length > 0)
                 {
-                    var connections = read
+                    List<int> connections = read
                         .Split(" ")
                         .Select(int.Parse)
                         .ToList();
