@@ -1,0 +1,15 @@
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.ViewModels.deps.json
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.ViewModels.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.ViewModels.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.csprojAssemblyReference.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.AssemblyInfoInputs.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.AssemblyInfo.cs
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Common.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Domains.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Mappings.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Domains.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Mappings.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\bin\Debug\netcoreapp3.1\Senior.Task.Common.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.ViewModels\obj\Debug\netcoreapp3.1\Senior.Task.ViewModels.csproj.CopyComplete

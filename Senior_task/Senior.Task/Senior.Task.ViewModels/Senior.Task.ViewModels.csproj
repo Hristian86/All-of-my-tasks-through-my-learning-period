@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Senior.Task.Domains\Senior.Task.Domains.csproj" />
+    <ProjectReference Include="..\Senior.Task.Mappings\Senior.Task.Mappings.csproj" />
+  </ItemGroup>
+
+</Project>

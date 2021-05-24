@@ -1,0 +1,11 @@
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\bin\Debug\netcoreapp3.1\Senior.Task.Domains.deps.json
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\bin\Debug\netcoreapp3.1\Senior.Task.Domains.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\bin\Debug\netcoreapp3.1\Senior.Task.Domains.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\bin\Debug\netcoreapp3.1\Senior.Task.Common.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\bin\Debug\netcoreapp3.1\Senior.Task.Common.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.csprojAssemblyReference.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.AssemblyInfoInputs.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.AssemblyInfo.cs
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.csproj.CopyComplete
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Domains\obj\Debug\netcoreapp3.1\Senior.Task.Domains.pdb

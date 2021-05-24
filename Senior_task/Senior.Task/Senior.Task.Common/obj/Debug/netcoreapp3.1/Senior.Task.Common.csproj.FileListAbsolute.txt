@@ -1,0 +1,8 @@
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\bin\Debug\netcoreapp3.1\Senior.Task.Common.deps.json
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\bin\Debug\netcoreapp3.1\Senior.Task.Common.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\bin\Debug\netcoreapp3.1\Senior.Task.Common.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\obj\Debug\netcoreapp3.1\Senior.Task.Common.csprojAssemblyReference.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\obj\Debug\netcoreapp3.1\Senior.Task.Common.AssemblyInfoInputs.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\obj\Debug\netcoreapp3.1\Senior.Task.Common.AssemblyInfo.cs
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\obj\Debug\netcoreapp3.1\Senior.Task.Common.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Common\obj\Debug\netcoreapp3.1\Senior.Task.Common.pdb

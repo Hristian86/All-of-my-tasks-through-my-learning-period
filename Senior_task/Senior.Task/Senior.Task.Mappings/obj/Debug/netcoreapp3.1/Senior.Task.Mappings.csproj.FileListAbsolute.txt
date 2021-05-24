@@ -1,0 +1,8 @@
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\bin\Debug\netcoreapp3.1\Senior.Task.Mappings.deps.json
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\bin\Debug\netcoreapp3.1\Senior.Task.Mappings.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\bin\Debug\netcoreapp3.1\Senior.Task.Mappings.pdb
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\obj\Debug\netcoreapp3.1\Senior.Task.Mappings.csprojAssemblyReference.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\obj\Debug\netcoreapp3.1\Senior.Task.Mappings.AssemblyInfoInputs.cache
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\obj\Debug\netcoreapp3.1\Senior.Task.Mappings.AssemblyInfo.cs
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\obj\Debug\netcoreapp3.1\Senior.Task.Mappings.dll
+G:\FilesForGithub\Senior_Task\Senior.Task\Senior.Task.Mappings\obj\Debug\netcoreapp3.1\Senior.Task.Mappings.pdb

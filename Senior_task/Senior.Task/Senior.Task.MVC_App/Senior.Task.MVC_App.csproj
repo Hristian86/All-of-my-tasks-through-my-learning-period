@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.1" />
+
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.15" />
+
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Senior.Task.Data\Senior.Task.Data.csproj" />
+    <ProjectReference Include="..\Senior.Task.Mappings\Senior.Task.Mappings.csproj" />
+    <ProjectReference Include="..\Senior.Task.Repository\Senior.Task.Repository.csproj" />
+    <ProjectReference Include="..\Senior.Task.Services\Senior.Task.Services.csproj" />
+    <ProjectReference Include="..\Senior.Task.ViewModels\Senior.Task.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
