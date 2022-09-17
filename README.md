@@ -1,7 +1,3 @@
-# Programming basics
-C# certificate: https://softuni.bg/certificates/details/71391/922c02c0
-
-<hr />
 
 # ASP.NET Core & Entity Framework Core & MS SQL & Azure services( Currently hosted in heroku because of pricing reasons :))
 Certificate: https://softuni.bg/certificates/details/80996/6df2170c
